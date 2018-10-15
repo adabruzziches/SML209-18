@@ -1,6 +1,6 @@
 <h1>HTML Part 2 Homework</h1>
 
-<h2> 15<sup>th</sup> of October 2018 <h2>
+<h2> 15<sup>th</sup> of October 2018 </h2>
   
  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Spiaggia_rosa%2C_isola_di_budelli%2C_sardegna.jpg" alt="Budelli Island">
  
