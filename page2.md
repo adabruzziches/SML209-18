@@ -1,8 +1,10 @@
 <h1>HTML Part 2 Homework</h1>
+
 <h2> 15<sup>th</sup> of October 2018 <h2>
   
  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Spiaggia_rosa%2C_isola_di_budelli%2C_sardegna.jpg" alt="Budelli Island">
  
+ <hr>
  
  <dl>
   <dt>Fog</dt>
@@ -15,6 +17,7 @@
   <dd>Portion of land nearly surrounded by water and connected with a larger body by an isthmus</dd>
 </dl>
   
+  <hr>
   
   <table>
   <tr> <th>Presente</th> <th>Imperfetto</th> <th> Futuro</th> </tr>
@@ -23,6 +26,6 @@
   <tr><td>vado</td><td>andavo</td><td>andro'</td></tr>
   </table>
   
-  
+  <hr>
   
   <li lang="ru"> <p>Меня зовут Ада. Я итальянка и изучаю русский язык и бузнес в Лондоне.</p>
