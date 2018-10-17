@@ -4,6 +4,9 @@
   
  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Spiaggia_rosa%2C_isola_di_budelli%2C_sardegna.jpg" alt="Budelli Island">
  
+ <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Spiaggia_rosa%2C_isola_di_budelli%2C_sardegna.jpg" alt="Image of Budelli Island, Sardinia, Italy">
+ </a>
+ 
  <hr>
 
 <p>
