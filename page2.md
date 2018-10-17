@@ -22,7 +22,7 @@
   <hr>
   
 <p>
-  <table>
+  <table lang="it">
   <tr> <th>Presente</th> <th>Imperfetto</th> <th> Futuro</th> </tr>
   <tr><td>sono</td><td>ero</td><td>saro'</td></tr>
   <tr><td>ho</td><td>avevo</td><td>avro'</td></tr>
@@ -32,4 +32,4 @@
 
   <hr>
  
-<li lang="ru"> <p>Меня зовут Ада. Я итальянка и изучаю русский язык и бузнес в Лондоне.</p>
+<p lang="ru"> <p>Меня зовут Ада. Я итальянка и изучаю русский язык и бузнес в Лондоне.</p>
