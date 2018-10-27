@@ -4,11 +4,11 @@
   
  <a href="https://upload.wikimedia.org/wikipedia/commons/0/08/Spiaggia_rosa%2C_isola_di_budelli%2C_sardegna.jpg" 
  title="Budelli Island">
- <p>
  <img style="width:70%; border:1px solid green; float:left; margin: 0 10px 10px 0;"
  src="https://upload.wikimedia.org/wikipedia/commons/0/08/Spiaggia_rosa%2C_isola_di_budelli%2C_sardegna.jpg" 
  alt="Image of Budelli Island, Sardinia, Italy">
  </a>
+ <p>
  This image portrays the Island of Budelli, located in Sardinia (Italy) 
  </p>
  
