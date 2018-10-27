@@ -8,15 +8,12 @@
  <img style="width:70%; border:1px solid green; float:left; margin: 0 10px 10px 0;"
  src="https://upload.wikimedia.org/wikipedia/commons/0/08/Spiaggia_rosa%2C_isola_di_budelli%2C_sardegna.jpg" 
  alt="Image of Budelli Island, Sardinia, Italy">
- <a/>
  This image portrays the Island of Budelli, located in Sardinia (Italy) 
  </p>
- 
  
  <hr>
  
 <p>
-  
 <dl>
   <dt>Fog</dt>
   <dd> Fog is a cloud that touches the ground. Fog can be thin or thick, meaning people have difficulty seeing through it. In some conditions, fog can be so thick that it makes passing cars. Even monuments like London Bridge, in London, England, or the Golden Gate Bridge, in San Francisco, California, are almost impossible to see in thick fog. </dd>
@@ -27,7 +24,6 @@
   <dt>Peninsula</dt>
   <dd>Portion of land nearly surrounded by water and connected with a larger body by an isthmus</dd>
 </dl>
-
 </p>
 
   <hr>
