@@ -18,6 +18,16 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' 'assets/css/style.scss' | append: site.github.build_revision | relative_url }}">
+      ---
+      ---
+      @import"{{ site.theme }}";
+      .imgLeft {
+        float:left;
+        margin: 0 10px 10px 0;
+        width:70%;
+        vertical-align:top;
+        border:1px solid #021a40;
+      }
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -29,16 +39,6 @@
       {% if site.github.is_project_page %}
         <a href="{{ site.baseurl }}" class="btn">Home</a>
         <a href="{{ site.github.page2 }}" class="btn">Part2-Homework</a>
-      ---
-      ---
-      @import"{{ site.theme }}";
-      .imgLeft {
-        float:left;
-        margin: 0 10px 10px 0;
-        width:70%;
-        vertical-align:top;
-        border:1px solid #021a40;
-      }
         <a href="{{ site.github.page3 }}" class="btn">Page 3</a> 
         <a href="{{ site.github.page4 }}" class="btn">Page 4</a>
         <a href="{{ site.github.page5 }}" class="btn">Page 5</a>
