@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+
+.imgLeft {
+  width:70%; 
+  border:1px solid green; 
+  float:left; 
+  margin: 0 10px 10px 0;
+}
