@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: Ada's Page
 description: SML209-18
 github:
-  page2: Reading.html
-  page3: Listening.html
-  page4: Writing.html
-  page5: Speaking.html
+  page2: reading.html
+  page3: listening.html
+  page4: writing.html
+  page5: speaking.html
