@@ -15,9 +15,12 @@
 This image portrays the Island of Budelli, located in Sardinia (Italy). Budelli is considered one of the most beautiful islands in the Mediterranean Sea. It is especially renowned for its Spiaggia Rosa ("Pink Beach"), in the south-eastern part of the island.
  </p>
  
+ <p style="clear:both;"></p>
+ 
  <hr>
  
-<p>
+
+
 <dl>
   <dt>Fog</dt>
   <dd> Fog is a cloud that touches the ground. Fog can be thin or thick, meaning people have difficulty seeing through it. In some conditions, fog can be so thick that it makes passing cars. Even monuments like London Bridge, in London, England, or the Golden Gate Bridge, in San Francisco, California, are almost impossible to see in thick fog. </dd>
@@ -28,7 +31,7 @@ This image portrays the Island of Budelli, located in Sardinia (Italy). Budelli 
   <dt>Peninsula</dt>
   <dd>Portion of land nearly surrounded by water and connected with a larger body by an isthmus</dd>
 </dl>
-</p>
+
 
   <hr>
   
