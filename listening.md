@@ -1,5 +1,5 @@
-<h1>Example exercises: Song Gap</h1>
-<h2>"Esercizio 1: Ascolta la canzone e completa le caselle mancanti"
+<h1 style="color:blue;">Example exercises: Song Gap</h1>
+<h2 style="color:blue;">"Esercizio 1: Ascolta la canzone e completa le caselle mancanti"
     (Exercise 1: Listen to the song and fill in the gaps)</h2>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t4IjJav7xbg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
