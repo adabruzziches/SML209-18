@@ -48,3 +48,8 @@
   <hr>
  
 <p lang="it"> Mi chiamo Ada, sono italiana e studio russo e business management a Londra.</p>
+
+<p>
+<a style="float:right:" href="practice.html">Go to Exercise 1</a>
+</p>
+<div style="clear.both;"> </div>
