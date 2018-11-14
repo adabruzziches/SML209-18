@@ -12,8 +12,9 @@
  
  </a>
 
-This image portrays the Island of Budelli, located in Sardinia (Italy). Budelli is considered one of the most beautiful islands in the Mediterranean Sea. It is especially renowned for its Spiaggia Rosa ("Pink Beach"), in the south-eastern part of the island.
- </p>
+<p lang="it"> In questa immagine la protagonista e' l'isola di Budelli, situata in Sardegna (Italia). Budelli e' considerata una delle piu' belle isole del Mar Mediterraneo ed e' specialmente rinomata per la sua "Spiaggia Rosa", situata nell'area sud-est dell'isola. </p>
+
+<p lang="en">(This image portrays the Island of Budelli, located in Sardinia (Italy). Budelli is considered one of the most beautiful islands in the Mediterranean Sea. It is especially renowned for its Spiaggia Rosa ("Pink Beach"), in the south-eastern part of the island.) </p> 
  
  <p style="clear:both;"></p>
  
@@ -22,14 +23,14 @@ This image portrays the Island of Budelli, located in Sardinia (Italy). Budelli 
 
 
 <dl>
-  <dt>Fog</dt>
-  <dd> Fog is a cloud that touches the ground. Fog can be thin or thick, meaning people have difficulty seeing through it. In some conditions, fog can be so thick that it makes passing cars. Even monuments like London Bridge, in London, England, or the Golden Gate Bridge, in San Francisco, California, are almost impossible to see in thick fog. </dd>
+  <dt>Penisola</dt>
+  <dd>Una penisola è una formazione geografica consistente in un'estesa sporgenza di terre circondate per lo più da acqua e collegate alla terraferma soltanto da un lato.</dd>
   
-  <dt>Metamorphosis</dt>
-  <dd>A change in the form and often habits of an animal during normal development after the embryonic stage.</dd>
+  <dt>Sabbia</dt>
+  <dd>La sabbia, detta anche rena, è una roccia sedimentaria clastica sciolta, proveniente dall'erosione di altre rocce tra le quali l'arenaria (roccia sedimentaria).</dd>
   
-  <dt>Peninsula</dt>
-  <dd>Portion of land nearly surrounded by water and connected with a larger body by an isthmus</dd>
+  <dt>Isola</dt>
+  <dd>Limitata porzione di terraferma completamente circondata dalle acque.</dd>
 </dl>
 
 
@@ -46,4 +47,4 @@ This image portrays the Island of Budelli, located in Sardinia (Italy). Budelli 
 
   <hr>
  
-<p lang="ru"> Меня зовут Ада. Я итальянка и изучаю русский язык и бузнес в Лондоне.</p>
+<p lang="it"> Mi chiamo Ada, sono italiana e studio russo e business management a Londra.</p>
