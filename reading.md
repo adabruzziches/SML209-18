@@ -1,4 +1,4 @@
-<h1>Reading/h1>
+<h1>Reading</h1>
 
 <h2> 15<sup>th</sup> of October 2018 </h2>
   
