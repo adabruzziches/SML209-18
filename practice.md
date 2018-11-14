@@ -1,4 +1,4 @@
-<h1 style="color:blue;"> Esercizio /Practice </h1>
+<h1 style="color:blue;"> Esercizio / Practice </h1>
 
 <h2 style="color:blue;"> Abbina le parole con il significato opposto/ Match the words with opposite meanings </h2>
 
