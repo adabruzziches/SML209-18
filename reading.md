@@ -1,6 +1,6 @@
-<h1>Reading</h1>
+<h1 style="color:blue;">Reading</h1>
 
-<h2> 15<sup>th</sup> of October 2018 </h2>
+<h2 style="color:blue;"> 15<sup>th</sup> of October 2018 </h2>
   
 
  <p>
