@@ -39,6 +39,6 @@
 
 
 <p>
-<a style="float:right:" href="practice.html" class="btn2">Go to Listening Exercise</a>
+<a style="float:right:" href="practice.html" class="btn2">Go to Vocabulary Exercise</a>
 </p>
 <div style="clear.both;"> </div>
