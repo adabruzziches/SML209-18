@@ -2,8 +2,8 @@ theme: jekyll-theme-cayman
 title: Learn Italian Today
 description: SML209-18
 github:
-  page2: italian_language.html
-  page3: listening.html
+  page2: language.html
+  page3: vocabulary.html
   page4: writing.html
   page5: speaking.html
   page6: practice.html
