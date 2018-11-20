@@ -39,7 +39,7 @@
 
 
 <p>
-<a style="float:right:" href="practice.html" class="btn2">Go to Vocabulary Exercise</a>
+<a style="float:right:" href="practice.html" class="btn2">Go to Grammar Exercise</a>
 </p>
 <div style="clear.both;"> </div>
 
