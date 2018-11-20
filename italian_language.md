@@ -27,11 +27,15 @@
   <hr>
   
 <p>
+ <h3> Verbo Essere / To Be </h3>
   <table lang="it">
-  <tr> <th>Presente</th> <th>Imperfetto</th> <th> Futuro</th> </tr>
-  <tr><td>sono</td><td>ero</td><td>saro'</td></tr>
-  <tr><td>ho</td><td>avevo</td><td>avro'</td></tr>
-  <tr><td>vado</td><td>andavo</td><td>andro'</td></tr>
+  <tr> <th>Pronoun</th> <th>Presente</th> <th>Passato</th>  <th> Futuro</th> </tr>
+  <tr><td>io</td><td>sono</td><td>ero</td><td>saro'</td></tr>
+  <tr><td>tu</td><td>sei</td><td>eri</td><td>sarai</td></tr>
+  <tr><td>lui/lei</td><td>e'</td><td>era</td><td>sara'</td></tr>
+  <tr><td>noi</td><td>siamo</td><td>eravamo</td><td>saremo</td></tr>
+  <tr><td>voi</td><td>siete</td><td>eravate</td><td>sarete</td></tr>
+  <tr><td>essi</td><td>sono</td><td>erano</td><td>saranno</td></tr>
   </table>
 </p>
 
