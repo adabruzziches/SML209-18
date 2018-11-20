@@ -1,7 +1,4 @@
-<h1 style="color:red;">Reading</h1>
-
-<h2 style="color:red;"> 15<sup>th</sup> of October 2018 </h2>
-  
+<h1 style="color:green;">Italian Language</h1>
 
  <p>
    <a href="https://upload.wikimedia.org/wikipedia/commons/0/08/Spiaggia_rosa%2C_isola_di_budelli%2C_sardegna.jpg" 
@@ -26,13 +23,6 @@
   <dt>Penisola</dt>
   <dd>Una penisola è una formazione geografica consistente in un'estesa sporgenza di terre circondate per lo più da acqua e collegate alla terraferma soltanto da un lato.</dd>
   
-  <dt>Sabbia</dt>
-  <dd>La sabbia, detta anche rena, è una roccia sedimentaria clastica sciolta, proveniente dall'erosione di altre rocce tra le quali l'arenaria (roccia sedimentaria).</dd>
-  
-  <dt>Isola</dt>
-  <dd>Limitata porzione di terraferma completamente circondata dalle acque.</dd>
-</dl>
-
 
   <hr>
   
@@ -46,8 +36,7 @@
 </p>
 
   <hr>
- 
-<p lang="it"> Mi chiamo Ada, sono italiana e studio russo e business management a Londra.</p>
+
 
 <p>
 <a style="float:right:" href="practice.html" class="btn2">Go to Exercise 1</a>
