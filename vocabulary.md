@@ -14,5 +14,5 @@
 
 <p lang="en">(This image portrays only few of the most well-know Italian dishes) </p> 
  
- <p style="clear:both;"></p>
+<p style="clear:both;"></p>
  
