@@ -26,3 +26,9 @@
 <a style="float:right:" href="dialogcards.html" class="btn2">Go to Dialog Cards Exercise</a>
 </p>
 <div style="clear.both;"> </div>
+
+
+<p>
+<a style="float:right:" href="memorygame.html" class="btn2">Go to Memory Game Exercise</a>
+</p>
+<div style="clear.both;"> </div>
