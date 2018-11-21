@@ -1,1 +1,1 @@
-<h1 style="color:green;">Culture</h1>
+<h1 style="color:green;"> Culture</h1>
