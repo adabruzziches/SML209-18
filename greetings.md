@@ -1,6 +1,6 @@
-<h1 style:"colour:green;"> Greetings </h1>
+<h1 style="color:green;"> Greetings </h1>
 
-<h1 style:"colour:green;"> Audio exercise: formal and informal dialogues </h2>
+<h2 style:="colour:green;"> Audio exercise: formal and informal dialogues </h2>
 
 <audio controls>
  
