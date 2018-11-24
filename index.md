@@ -25,7 +25,7 @@
  
  </a>
 
-
+<p style="clear:both;"> </p>
 
 <p> (Orlando, L. (2018). Regioni e capoluoghi d'Italia. [online] Leilaorlando.blogspot.com. Available at: http://leilaorlando.blogspot.com/2013/10/regioni-e-capoluoghi-ditalia.html [Accessed 24 Nov. 2018].) </p>
 
