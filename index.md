@@ -31,7 +31,7 @@
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
-<p> {Source: Orlando, L. (2018). Regioni e capoluoghi d'Italia. [online] Leilaorlando.blogspot.com. Available at: http://leilaorlando.blogspot.com/2013/10/regioni-e-capoluoghi-ditalia.html [Accessed 24 Nov. 2018]} </p>
+<p> {Image Source: Orlando, L. (2018). Regioni e capoluoghi d'Italia. [online] Leilaorlando.blogspot.com. Available at: http://leilaorlando.blogspot.com/2013/10/regioni-e-capoluoghi-ditalia.html [Accessed 24 Nov. 2018]} </p>
 
 
 <hr>
@@ -68,16 +68,7 @@ Uniti per Dio, chi vincer ci puo?<br>
 </p>
 
 
-<p> <br> {Source: http://www.portalestoria.net/inni%20nazionali%20mp3.htm} </p>
-
-
-
-
-
-
-
-
-
+<p> <br> {MP3 Source: http://www.portalestoria.net/inni%20nazionali%20mp3.htm} </p>
 
 
 
