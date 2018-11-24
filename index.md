@@ -30,8 +30,46 @@
 <p style="clear:both;"> </p>
 
 
---------------------------------------------------------------------------------------------------------------------------
-<p> (Orlando, L. (2018). Regioni e capoluoghi d'Italia. [online] Leilaorlando.blogspot.com. Available at: http://leilaorlando.blogspot.com/2013/10/regioni-e-capoluoghi-ditalia.html [Accessed 24 Nov. 2018].) </p>
+-------------------------------------------------------------------------------------------------------------------------------------
+<p> {Source: Orlando, L. (2018). Regioni e capoluoghi d'Italia. [online] Leilaorlando.blogspot.com. Available at: http://leilaorlando.blogspot.com/2013/10/regioni-e-capoluoghi-ditalia.html [Accessed 24 Nov. 2018]} </p>
+
+
+<hr>
+
+
+<h3> Inno di Mameli - Italian National Anthem </h3>
+
+<audio controls>
+ 
+  <source src="http://www.portalestoria.net/INNI%20MP3/Inno%20Nazionale%20Italia.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<p> <strong>  Testo - Lyrics </strong>
+
+"Fratelli d'Italia, l'Italia s'e' desta
+dell'elmo di Scipio se' cinta la testa
+dove' la vittoria? Le porga la chioma:
+che schiava di Roma Iddio la creo.
+
+(rit.)
+Stringiamoci a corte, siam pronti alla morte,
+siam pronti alla morte, l'Italia chiamo'.
+Stringiamoci a corte, siam pronti alla morte,
+siam pronti alla morte l'Italia chiamo'!"
+
+{Source: http://www.portalestoria.net/inni%20nazionali%20mp3.htm}
+
+</p>
+
+
+
+
+
+
+
+
+
 
 
 
