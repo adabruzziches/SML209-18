@@ -52,13 +52,13 @@ dell'elmo di Scipio se' cinta la testa
 dove' la vittoria? Le porga la chioma:
 che schiava di Roma Iddio la creo. <br>
 
-(rit.)
+<br>(rit.)
 Stringiamoci a corte, siam pronti alla morte,
 siam pronti alla morte, l'Italia chiamo'.
 Stringiamoci a corte, siam pronti alla morte,
 siam pronti alla morte l'Italia chiamo'!" <br>
 
-Noi fummo da secoli, calpesti e derisi,
+<br>Noi fummo da secoli, calpesti e derisi,
 perche non siam popolo, perche siam divisi.
 Raccolgaci un'unica bandiera, una speme:
 di fonderci insieme gi l'ora suono. <br>
