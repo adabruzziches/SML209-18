@@ -58,10 +58,17 @@ siam pronti alla morte, l'Italia chiamo'.
 Stringiamoci a corte, siam pronti alla morte,
 siam pronti alla morte l'Italia chiamo'!" <br>
 
+Noi fummo da secoli, calpesti e derisi,
+perche non siam popolo, perche siam divisi.
+Raccolgaci un'unica bandiera, una speme:
+di fonderci insieme gi l'ora suono. <br>
+Uniti per Dio, chi vincer ci puo?<br>
+
+
 </p>
 
 
-<p> {Source: http://www.portalestoria.net/inni%20nazionali%20mp3.htm} </p>
+<p> <br> {Source: http://www.portalestoria.net/inni%20nazionali%20mp3.htm} </p>
 
 
 
