@@ -15,14 +15,6 @@
  
  <p style="clear:both;"></p>
  
- <hr>
- 
-
-
-<dl>
-  <dt>Penisola</dt>
-  <dd>Una penisola è una formazione geografica consistente in un'estesa sporgenza di terre circondate per lo più da acqua e collegate alla terraferma soltanto da un lato.</dd>
-  
 
   <hr>
   
