@@ -50,13 +50,13 @@ Your browser does not support the audio element.
 "Fratelli d'Italia, l'Italia s'e' desta
 dell'elmo di Scipio se' cinta la testa
 dove' la vittoria? Le porga la chioma:
-che schiava di Roma Iddio la creo.
+che schiava di Roma Iddio la creo. <br>
 
 (rit.)
 Stringiamoci a corte, siam pronti alla morte,
 siam pronti alla morte, l'Italia chiamo'.
 Stringiamoci a corte, siam pronti alla morte,
-siam pronti alla morte l'Italia chiamo'!"
+siam pronti alla morte l'Italia chiamo'!" <br>
 
 </p>
 
