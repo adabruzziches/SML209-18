@@ -19,7 +19,7 @@
 
 <p lang="it"> Prima di tutto, voglio mostrarvi una mappa della <u>penisola</u>* italiana, comprendente le sue regioni e rispettivi capoluoghi. Nonostante la superfice ricoperta dal paese sia  di solamente 301,340 km2, le meraviglie italiane sono infinite e non basterebbe un anno per poterla visitare completamente! </p>
 
-<p lang="en"> (First of all, I want to show you a map of the Italian peninsula that shows both its regions and their respective Regional County Seats. Despite the country's surface covers only 116,350 sq mi, Italy has an infinite number of wonders! A whole year would probably not be enough time to visit everything! </p>
+<p lang="en"> (First of all, I want to show you a map of the Italian peninsula that shows both its regions and their respective Regional County Seats. Despite the country's surface covers only 116,350 sq mi, Italy has an infinite number of wonders! A whole year would probably not be enough time to visit everything!) </p>
 
 <dl>
   <dt><u>Penisola</u>*</dt>
