@@ -4,7 +4,6 @@
 
 <p> La bandiera italiana e' composta da tre bande verticali, rispettivamente di colore verde bianco e rosso. I tre colori hanno, rispettivamente, un significato collegato al nostro paese: </p>
 
-<br>
 <ul>
   <li> Verde (Green): simboleggia le nostre praterie </li>
   <li> Bianco (White): e' il simbolo dele nevi perenni delle Alpi,</li>
