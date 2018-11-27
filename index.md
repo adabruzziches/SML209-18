@@ -9,7 +9,7 @@
 
 <hr>
 
-<h3 style="color:green;"> La Bandiera della Repubblica Italian </h3>
+<h3 style="color:green;"> La Bandiera della Repubblica Italiana </h3>
 
 <p>
    <a href="https://www.google.com/url?" 
