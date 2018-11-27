@@ -33,6 +33,20 @@
 
   <hr>
 
+<p>
+ <h3> Verbo Avere / To Have </h3>
+  <table lang="it">
+  <tr> <th>Pronoun</th> <th>Presente</th> <th>Passato</th>  <th> Futuro</th> </tr>
+  <tr><td>io</td><td>ho</td><td>avevo</td><td>avro</td></tr>
+  <tr><td>tu</td><td>hai</td><td>avevi</td><td>avrai</td></tr>
+  <tr><td>lui/lei</td><td>ha</td><td>aveva</td><td>avra'</td></tr>
+  <tr><td>noi</td><td>abbiamo</td><td>avevamo</td><td>avremo</td></tr>
+  <tr><td>voi</td><td>avete</td><td>avevate</td><td>avrete</td></tr>
+  <tr><td>essi</td><td>hanno</td><td>avevano</td><td>avranno</td></tr>
+  </table>
+</p>
+
+<hr>
 
 <p>
 <a style="float:right:" href="practice.html" class="btn2">Go to Grammar Exercise</a>
