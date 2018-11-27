@@ -57,6 +57,12 @@
 <br> <p> {Image Source: Orlando, L. (2018). Regioni e capoluoghi d'Italia. [online] Leilaorlando.blogspot.com. Available at: http://leilaorlando.blogspot.com/2013/10/regioni-e-capoluoghi-ditalia.html [Accessed 24 Nov. 2018]} </p>
 
 
+<p>
+<a style="float:right:" href="famousregions.html" class="btn2">Go to Famous Regions</a>
+</p>
+<div style="clear.both;"> </div>
+
+
 <hr>
 
 
