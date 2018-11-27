@@ -31,6 +31,17 @@
   </table>
 </p>
 
+<p>
+<a style="float:right:" href="practice.html" class="btn2">Go to Grammar Exercise</a>
+</p>
+<div style="clear.both;"> </div>
+
+<p>
+<a style="float:right:" href="listening_exercise.html" class="btn2">Go to Listening Exercise</a>
+</p>
+<div style="clear.both;"> </div>
+
+
   <hr>
 
 <p>
@@ -47,16 +58,6 @@
 </p>
 
 <hr>
-
-<p>
-<a style="float:right:" href="practice.html" class="btn2">Go to Grammar Exercise</a>
-</p>
-<div style="clear.both;"> </div>
-
-<p>
-<a style="float:right:" href="listening_exercise.html" class="btn2">Go to Listening Exercise</a>
-</p>
-<div style="clear.both;"> </div>
 
 <h3> Other useful verbs ending in "-are" </h3>
 
