@@ -43,3 +43,19 @@
 <a style="float:right:" href="listening_exercise.html" class="btn2">Go to Listening Exercise</a>
 </p>
 <div style="clear.both;"> </div>
+
+<h3> Other useful verbs ending in "-are" </h3>
+
+<ul>
+ <li> Andare / To Go </li>
+ <li> Fare / To Do </li>
+ <li> Mangiare / To Eat </li>
+ <li> Bere / To Drink </li>
+ <li> Parlare / To Speak </li>
+ <li> Studiare / To Study </li>
+ <li> Pensare / To Think </li>
+ <li> Camminare / To Walk </li>
+ <li> Visitare / To Visit </li>
+ <li> Guardare / To Watch </li>
+</ul>
+ 
