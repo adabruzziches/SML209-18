@@ -22,6 +22,11 @@
  
 <p style="clear:both;"> </p>
 
+<p>
+<a style="float:right:" href="italianflag.html" class="btn2">Go to Facts about Italian Flag</a>
+</p>
+<div style="clear.both;"> </div>
+
 
 <hr>
 
