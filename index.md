@@ -3,7 +3,9 @@
 
 <hr>
 
-<p> <strong>Ciao!</strong> My name is Ada, I am Italian and a current student at Queen Mary University of London. <a href="https://hub.qmplus.qmul.ac.uk"> Visit my QMplus Hub page </a> Questo sito vi dara' la possibilita' di esplorare la cultura italiana, potendo scroprire fatti interessanti riguardanti il paese e avendo allo stesso tempo un assaggio della lingua che vi permettera' di "sopravvivere" nel caso in cui pianificate di andare a visitare il paese ma non conoscete nemmeno una parola! </p> <br>
+<p> <strong>Ciao!</strong> My name is Ada, I am Italian and a current student at Queen Mary University of London. <a href="https://hub.qmplus.qmul.ac.uk"> Visit my QMplus Hub page </a> Questo sito vi dara' la possibilita' di esplorare la cultura italiana, potendo scroprire fatti interessanti riguardanti il paese e avendo allo stesso tempo un assaggio della lingua che vi permettera' di "sopravvivere" nel caso in cui pianificate di andare a visitare il paese ma non conoscete nemmeno una parola! </p> 
+
+<hr>
 
 <br> Per chi non lo sapesse, l'Italia e' una Repubblica Parlamentare. Il 1 Gennaio 1948 puo' essere considerata come la data della nascita della Rupubblica Italiana perche' fu' la giornata in cui la "Costitutuzione della Repubblica Italiana" entro' in vigore. In Italia, la "Festa della Repubblica viene celebrata il 2 Giugno"; questa data si riferisce al 2 Giugno 1946, giornata in cui ci fu' il referendum istituzionale per la nascita della Repubblica.
 
