@@ -12,11 +12,11 @@
 <h3 style="color:green;"> La Bandiera della Repubblica Italiana </h3>
 
 <p>
-   <a href="1500px-Flag_of_Italy.svg.png" 
+   <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/2000px-Flag_of_Italy.svg.png" 
  title="Bandiera Repubblica Italiana">
      
  <img class="imgLeft"
- src="1500px-Flag_of_Italy.svg.png?" alt="Bandiera Repubblica Italiana">
+ src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/2000px-Flag_of_Italy.svg.png" alt="Bandiera Repubblica Italiana">
  
  </a>
  
