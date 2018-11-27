@@ -7,7 +7,7 @@
 
 <hr>
 
-<br> Per chi non lo sapesse, l'Italia e' una Repubblica Parlamentare. Il 1 Gennaio 1948 puo' essere considerata come la data della nascita della Rupubblica Italiana perche' fu' la giornata in cui la "Costitutuzione della Repubblica Italiana" entro' in vigore. In Italia, la "Festa della Repubblica viene celebrata il 2 Giugno"; questa data si riferisce al 2 Giugno 1946, giornata in cui ci fu' il referendum istituzionale per la nascita della Repubblica.
+<p> Per chi non lo sapesse, l'Italia e' una Repubblica Parlamentare. Il 1 Gennaio 1948 puo' essere considerata come la data della nascita della Rupubblica Italiana perche' fu' la giornata in cui la "Costitutuzione della Repubblica Italiana" entro' in vigore. In Italia, la "Festa della Repubblica viene celebrata il 2 Giugno"; questa data si riferisce al 2 Giugno 1946, giornata in cui ci fu' il referendum istituzionale per la nascita della Repubblica. </p>
 
 <hr>
 
