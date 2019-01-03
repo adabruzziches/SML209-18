@@ -28,6 +28,12 @@
  
   <p style="clear:both;"></p>
   
+  <p>
+<a style="float:right:" href="food.html" class="btn2">Go to Food Exercise</a>
+</p>
+<div style="clear.both;"> </div>
+  
+  
   <hr>
 
 
