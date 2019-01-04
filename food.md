@@ -61,4 +61,8 @@
  <li> Gelato </li>
 </ul>
 
+<p> 
+<a style="float:left;" href="vocabulary.html" class="btn2"> Back to Vocabulary</a>
+</p>
+<div style="clear:both;"> </div>
 
