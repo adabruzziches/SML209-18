@@ -21,7 +21,7 @@
 
 <p style="color:green;"> Tipi di pasta / Types of pasta </p>
 <ul>
- <li> Pasta al pesto </li>
+ <li> Pasta al Pesto </li>
  <li> Pasta al Ragu' </li>
  <li> Carbornara </li>
 </ul>
