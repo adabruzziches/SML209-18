@@ -30,17 +30,6 @@
 <h2 style="color:green;"> Mezzi di Trasporto / Transports </h2>
 
 <p>
-   <a href="https://cdn.pixabay.com/photo/2012/04/28/18/58/transportation-44028_960_720.png" title="Mezzi di Trasporto">
-     
- <img class="imgLeft"
-    src="https://cdn.pixabay.com/photo/2012/04/28/18/58/transportation-44028_960_720.png" alt="Mezzi di Trasporto">
-   
-   </a>
- 
-  <p style="clear:both;"></p>
-
-
-<p>
 <a style="float:right:" href="dialogcards.html" class="btn2">Go to Dialog Cards Exercise</a>
 </p>
 <div style="clear.both;"> </div>
