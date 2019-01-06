@@ -7,15 +7,3 @@
 </p>
 <div style="clear.both;"> </div>
 
-<p> DIALOGO INFORMALE
-Ciao Anna!
-Ciao Francesca, come stai?
-Molto bene grazie, e tu?
-Non c’e male, grazie
-
-DIALOGO FORMALE
-Buongiorno Signora Rossi.
-Buongiorno, come sta?
-Abbastanza bene grazie, lei?
-Cosi’ Cosi'
- </p>
