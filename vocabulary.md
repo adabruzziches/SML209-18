@@ -1,16 +1,6 @@
 
 <h1 style="color:green;"> Vocabulary </h1>
 
-<h2 style="color:green;"> Greetings </h2>
-
-<p>
-<a style="float:right:" href="greetings.html" class="btn2">Go to Greetings Exercise</a>
-</p>
-<div style="clear.both;"> </div>
-
-
-
-
 
 <h2 style="color:green;">"Cibo / Food" </h2>
    
