@@ -33,13 +33,6 @@
  <li> Merluzzo </li>
 </ul>
 
-<p style="color:green;"> Tipi di Pesce / Types of fish </p>
-<ul>
- <li> Baccala' </li>
- <li> Rombo con le patate </li>
- <li> Merluzzo </li>
-</ul>
-
 <p style="color:green;"> Tipi di Carne / Types of meat </p>
 <ul>
  <li> Filetto di Manzo </li>
