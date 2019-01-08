@@ -63,5 +63,16 @@
   <tr><td> 10 - dieci </td> <td> 20 - venti </td> </tr> 
    </table>
   
-  
+  <h3 style="color:green;"> Altri numeri utili / Other useful numbers </h3>
+
+<ul style="list-style-type:disc">
+  <li> 0 - Zero </li> 
+  <li> 100 - Cento </li> 
+  <li> 1,000 - Mille </li>
+  <li> 1,000,000 - Un milione </li>
+</ul>
+
+
+
+
 
