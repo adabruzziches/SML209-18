@@ -29,15 +29,7 @@
 
 <h2 style="color:green;"> "Mezzi di Trasporto / Transports" </h2>
 
-<p>
-   <a href="https://commons.wikimedia.org/wiki/File:Transports_icon.png" title="Transports">
-     
- <img class="imgLeft"
-    src="https://commons.wikimedia.org/wiki/File:Transports_icon.png" alt="Transports">
-   
-   </a>
-
-  <p style="clear:both;"></p>
+<a title="David, Olivier Guin, Jule Steffen &amp; Matthias Schmidt [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Transports_icon.png"><img width="512" alt="Transports icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Transports_icon.png/512px-Transports_icon.png"></a>
 
 
 <p>
