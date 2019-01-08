@@ -52,15 +52,14 @@
    <a href="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link" title="Numeri">
       
 <img class="imgLeft"
-    src="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link" alt="Numeri">
+    src="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link" img width="512" alt="Numeri">
    
    </a>
- 
  
   <p style="clear:both;"></p>
 
 
-<h2 style="color:green;"> Numeri da 1 a 20 / Numbers from 1 to 20 </h3>
+<h3 style="color:green;"> Numeri da 1 a 20 / Numbers from 1 to 20 </h3>
 
 <table lang="it">
   <tr><td> 1 - uno </td> <td> 11 - undici </td> </tr>
