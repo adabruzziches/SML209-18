@@ -85,7 +85,7 @@
 
 
 <p>
-<a style="float:right:" href="dialognumbers.html" class="btn2">Go to Numbers' Practice</a>
+<a style="float:right:" href="numbers.html" class="btn2">Go to Numbers' Practice</a>
 </p>
 <div style="clear.both;"> </div>
 
