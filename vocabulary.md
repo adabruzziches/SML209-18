@@ -52,7 +52,7 @@
    <a href="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link" title="Numeri">
       
 <img class="imgLeft"
-    src="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link"  alt="Numeri" height="250" width="250">
+    src="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link"  alt="Numeri" height="250" width="200">
    
    </a>
  
@@ -84,6 +84,10 @@
 </ul>
 
 
+<p>
+<a style="float:right:" href="dialognumbers.html" class="btn2">Go to Numbers' Practice</a>
+</p>
+<div style="clear.both;"> </div>
 
 
 
