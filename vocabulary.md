@@ -48,6 +48,17 @@
 
 <h2 style="color:green;"> "Numeri / Numbers" </h2>
 
+<p>
+   <a href="Numbers-595b40b65ba036ed117d3aa3.svg" title="Numeri">
+      
+<img class="imgLeft"
+    src="Numbers-595b40b65ba036ed117d3aa3.svg" alt="Numeri">
+   
+   </a>
+ 
+  <p style="clear:both;"></p>
+  
+
 <h3 style="color:green;"> Numeri da 1 a 20 / Numbers from 1 to 20 </h3>
 
 <table lang="it">
@@ -68,9 +79,10 @@
 <ul style="list-style-type:disc">
   <li> 0 - Zero </li> 
   <li> 100 - Cento </li> 
-  <li> 1,000 - Mille </li>
-  <li> 1,000,000 - Un milione </li>
+  <li> 1000 - Mille </li>
+  <li> 1 000 000 - Un milione </li>
 </ul>
+
 
 
 
