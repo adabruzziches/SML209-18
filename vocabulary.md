@@ -7,7 +7,7 @@
    <a href="https://clipart4school.com/wp-content/uploads/2018/05/Italian-Food-Clipart-preview.jpg" title="Italian Food">
      
  <img class="imgLeft"
-    src="https://clipart4school.com/wp-content/uploads/2018/05/Italian-Food-Clipart-preview.jpg" alt="Image of Italian Food" height="450" width="300">
+    src="https://clipart4school.com/wp-content/uploads/2018/05/Italian-Food-Clipart-preview.jpg" alt="Image of Italian Food" height="450" width="350">
    
    </a>
 
@@ -52,7 +52,7 @@
    <a href="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link" title="Numeri">
       
 <img class="imgLeft"
-    src="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link"  alt="Numeri" height="300" width="450">
+    src="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link"  alt="Numeri" height="250" width="350">
    
    </a>
  
