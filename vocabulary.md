@@ -49,10 +49,10 @@
 <h2 style="color:green;"> "Numeri / Numbers" </h2>
 
 <p>
-   <a href="Numbers-595b40b65ba036ed117d3aa3.svg" title="Numeri">
+   <a href="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link" title="Numeri">
       
 <img class="imgLeft"
-    src="Numbers-595b40b65ba036ed117d3aa3.svg" alt="Numeri">
+    src="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link" alt="Numeri">
    
    </a>
  
