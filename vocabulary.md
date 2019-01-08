@@ -7,7 +7,7 @@
    <a href="https://clipart4school.com/wp-content/uploads/2018/05/Italian-Food-Clipart-preview.jpg" title="Italian Food">
      
  <img class="imgLeft"
-    src="https://clipart4school.com/wp-content/uploads/2018/05/Italian-Food-Clipart-preview.jpg" alt="Image of Italian Food">
+    src="https://clipart4school.com/wp-content/uploads/2018/05/Italian-Food-Clipart-preview.jpg" alt="Image of Italian Food" height="450" width="300">
    
    </a>
 
@@ -28,7 +28,7 @@
 
 <h2 style="color:green;"> Mezzi di Trasporto / Transports </h2>
 
-<a title="David, Olivier Guin, Jule Steffen &amp; Matthias Schmidt [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Transports_icon.png"><img width="512" alt="Transports icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Transports_icon.png/512px-Transports_icon.png"></a>
+<a title="David, Olivier Guin, Jule Steffen &amp; Matthias Schmidt [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Transports_icon.png"><img width="450" alt="Transports icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Transports_icon.png/512px-Transports_icon.png"></a>
 
 
 <p>
@@ -52,7 +52,7 @@
    <a href="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link" title="Numeri">
       
 <img class="imgLeft"
-    src="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link"  alt="Numeri" height="300" width="512">>
+    src="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link"  alt="Numeri" height="300" width="450">
    
    </a>
  
