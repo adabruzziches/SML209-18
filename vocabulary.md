@@ -50,18 +50,18 @@
 
 <h3 style="color:green;"> Numeri da 1 a 20 / Numbers from 1 to 20 </h3>
 
-<ul style="list-style-type:disc">
-  <li> 1 - uno </li>                    <li> 11 - undici </li>
-  <li> 2 - due </li>                    <li> 12 - dodici </li>
-  <li> 3 - tre </li>                    <li> 13 - tredici </li>
-  <li> 4 - quattro</li>                 <li> 14 - quattordici </li>
-  <li> 5 - cinque </li>                 <li> 15 - quindici </li>
-  <li> 6 - sei </li>                    <li> 16 - sedici </li>
-  <li> 7 -sette </li>                   <li> 17 - diciassette </li>
-  <li> 8 - otto </li>                   <li> 18 - diciotto </li>
-  <li> 9 - nove </li>                   <li> 19 - diciannove </li>
-  <li> 1 - dieci </li>                  <li> 20 - venti </li>
-   
-</ul>
-
+<table lang="it">
+  <tr><td> 1 - uno </td> <td> 11 - undici </td> </tr>
+  <tr><td> 2 - due </td> <td> 12 - dodici </td> </tr>
+  <tr><td> 3 - tre </td> <td> 13 - tredici </td> </tr>
+  <tr><td> 4 - quattro </td> <td> 14 - quattordici </td> </tr>
+  <tr><td> 5 - cinque </td> <td> 15 - quindici </td> </tr>
+  <tr><td> 6 - sei </td> <td> 16 - sedici </td> </tr>
+  <tr><td> 7 -sette </td> <td> 17 - diciassette </td> </tr>
+  <tr><td> 8 - otto </td> <td> 18 - diciotto </td> </tr>
+  <tr><td> 9 - nove </td> <td> 19 - diciannove </td> </tr>
+  <tr><td> 10 - dieci </td> <td> 20 - venti </td> </tr> 
+   </table>
+  
+  
 
