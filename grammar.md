@@ -12,7 +12,7 @@
   </table>
 
 <p>
-<a style="float:right:" href="practice.html" class="btn2">Go to Verb Exercise</a>
+<a style="float:right:" href="practice.html" class="btn2">Go to "Verbo Essere" Exercise</a>
 </p>
 <div style="clear.both;"> </div>
 
@@ -32,7 +32,7 @@
 </p>
 
 <p>
-<a style="float:right:" href="practicetohave.html" class="btn2">Go to Verb Exercise</a>
+<a style="float:right:" href="practicetohave.html" class="btn2">Go to "Verbo Avere" Exercise</a>
 </p>
 <div style="clear.both;"> </div>
 
@@ -56,7 +56,7 @@
 
 
 <p>
-<a style="float:right:" href="usefulverbs.html" class="btn2">Go to Verbs' Exercise</a>
+<a style="float:right:" href="usefulverbs.html" class="btn2">Go to "Useful Verbs" Exercise</a>
 </p>
 <div style="clear.both;"> </div>
 
