@@ -12,7 +12,7 @@
   </table>
 
 <p>
-<a style="float:right:" href="practice.html" class="btn2">Go to Grammar Exercise</a>
+<a style="float:right:" href="practice.html" class="btn2">Go to Verb Exercise</a>
 </p>
 <div style="clear.both;"> </div>
 
@@ -36,6 +36,12 @@
   <tr><td>essi</td><td>hanno</td><td>avevano</td><td>avranno</td></tr>
   </table>
 </p>
+
+<p>
+<a style="float:right:" href="practicetohave.html" class="btn2">Go to Verb Exercise</a>
+</p>
+<div style="clear.both;"> </div>
+
 
 <hr>
 
