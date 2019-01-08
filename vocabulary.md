@@ -56,12 +56,8 @@
    
    </a>
  
-  <p style="clear:both;"></p>
-  
-
-<h3 style="color:green;"> Numeri da 1 a 20 / Numbers from 1 to 20 </h3>
-
-<table lang="it">
+ <h3 style="color:green;"> Numeri da 1 a 20 / Numbers from 1 to 20 </h3>
+ <table lang="it">
   <tr><td> 1 - uno </td> <td> 11 - undici </td> </tr>
   <tr><td> 2 - due </td> <td> 12 - dodici </td> </tr>
   <tr><td> 3 - tre </td> <td> 13 - tredici </td> </tr>
@@ -73,6 +69,9 @@
   <tr><td> 9 - nove </td> <td> 19 - diciannove </td> </tr>
   <tr><td> 10 - dieci </td> <td> 20 - venti </td> </tr> 
    </table>
+ 
+  <p style="clear:both;"></p>
+
   
   <h3 style="color:green;"> Altri numeri utili / Other useful numbers </h3>
 
