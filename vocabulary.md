@@ -1,7 +1,6 @@
 
 <h1 style="color:green;"> Vocabulary </h1>
 
-
 <h2 style="color:green;"> "Cibo / Food" </h2>
    
 <p>
@@ -42,3 +41,27 @@
 <a style="float:right:" href="memorygame.html" class="btn2">Go to Memory Game Exercise</a>
 </p>
 <div style="clear.both;"> </div>
+
+
+<hr>
+
+
+<h2 style="color:green;"> "Numeri / Numbers" </h2>
+
+<h3 style="color:green;"> Numeri da 1 a 20 / Numbers from 1 to 20 </h3>
+
+<ul style="list-style-type:disc">
+  <li> 1 - uno </li>                    <li> 11 - undici </li>
+  <li> 2 - due </li>                    <li> 12 - dodici </li>
+  <li> 3 - tre </li>                    <li> 13 - tredici </li>
+  <li> 4 - quattro</li>                 <li> 14 - quattordici </li>
+  <li> 5 - cinque </li>                 <li> 15 - quindici </li>
+  <li> 6 - sei </li>                    <li> 16 - sedici </li>
+  <li> 7 -sette </li>                   <li> 17 - diciassette </li>
+  <li> 8 - otto </li>                   <li> 18 - diciotto </li>
+  <li> 9 - nove </li>                   <li> 19 - diciannove </li>
+  <li> 1 - dieci </li>                  <li> 20 - venti </li>
+   
+</ul>
+
+
