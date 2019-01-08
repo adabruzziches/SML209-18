@@ -1,4 +1,4 @@
-<h1 style:"color:green;"> Regioni italiane rinomate / Popular Italian Regions </h1>
+<h1 style="color:green;"> Regioni italiane rinomate / Popular Italian Regions </h1>
 
  <p>
    <a href="https://upload.wikimedia.org/wikipedia/commons/0/08/Spiaggia_rosa%2C_isola_di_budelli%2C_sardegna.jpg" 
