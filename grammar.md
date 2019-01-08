@@ -1,6 +1,5 @@
 <h1 style="color:green;"> Grammar </h1>
   
-<p>
  <h3> Verbo Essere / To Be </h3>
   <table lang="it">
   <tr> <th>Pronoun</th> <th>Presente</th> <th>Passato</th>  <th> Futuro</th> </tr>
@@ -11,7 +10,6 @@
   <tr><td>voi</td><td>siete</td><td>eravate</td><td>sarete</td></tr>
   <tr><td>essi</td><td>sono</td><td>erano</td><td>saranno</td></tr>
   </table>
-</p>
 
 <p>
 <a style="float:right:" href="practice.html" class="btn2">Go to Grammar Exercise</a>
