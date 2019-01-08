@@ -55,8 +55,7 @@
     src="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link" alt="Numeri">
    
    </a>
- 
- <h3 style="color:green;"> Numeri da 1 a 20 / Numbers from 1 to 20 </h3>
+   
  <table lang="it">
   <tr><td> 1 - uno </td> <td> 11 - undici </td> </tr>
   <tr><td> 2 - due </td> <td> 12 - dodici </td> </tr>
