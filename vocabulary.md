@@ -2,7 +2,7 @@
 <h1 style="color:green;"> Vocabulary </h1>
 
 
-<h2 style="color:green;">"Cibo / Food" </h2>
+<h2 style="color:green;"> "Cibo / Food" </h2>
    
 <p>
    <a href="https://clipart4school.com/wp-content/uploads/2018/05/Italian-Food-Clipart-preview.jpg" title="Italian Food">
@@ -27,7 +27,18 @@
   <hr>
 
 
-<h2 style="color:green;"> Mezzi di Trasporto / Transports </h2>
+<h2 style="color:green;"> "Mezzi di Trasporto / Transports" </h2>
+
+<p>
+   <a href="https://commons.wikimedia.org/wiki/File:Transports_icon.png" title="Transports">
+     
+ <img class="imgLeft"
+    src="https://commons.wikimedia.org/wiki/File:Transports_icon.png" alt="Transports">
+   
+   </a>
+
+  <p style="clear:both;"></p>
+
 
 <p>
 <a style="float:right:" href="dialogcards.html" class="btn2">Go to Dialog Cards Exercise</a>
