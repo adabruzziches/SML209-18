@@ -1,4 +1,4 @@
-<h3 style="color:green;"> Lista di attrazioni turistiche / List of touristic Attractions </a>
+<h3 style="color:green;"> Lista di attrazioni turistiche / List of touristic Attractions </h3>
 
 <p> <strong> Montagne / Mountains </strong> </p>
 
