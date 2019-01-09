@@ -31,3 +31,7 @@
   <li> Mar Tirrenio </li>
 </ul>
 
+<p>
+<a style="float:right:" href="quiz.html" class="btn2">Go to "Quiz"</a>
+</p>
+<div style="clear.both;"> </div>
