@@ -1,6 +1,6 @@
 <h3 style="color:green;"> Lista di attrazioni turistiche / List of touristic Attractions </a>
 
-<strong> Montagne / Mountains </strong>
+<p> <strong> Montagne / Mountains </strong> </p>
 
 <ul style="list-style-type:disc">
   <li>Alpi - regioni: Piemonte, Lombardia, Valle d'Aosta, Trentino Alto Adige, Veneto, Friuli Venezia Giulia </li>
@@ -8,7 +8,7 @@
 </ul>
 
 
-<strong> Citta' / Cities </strong>
+<p> <strong> Citta' / Cities </strong> </p>
 
 <ul style="list-style-type:disc">
   <li> Roma si trova nel Lazio / Rome is in Lazio </li>
@@ -18,6 +18,15 @@
   <li> Palermo si trova in Sicilia / Palermo is in Sicily </li>
 </ul>
 
-<strong> Mare / Sea </strong>
+<p> <strong> Mare / Sea </strong> </p>
 
-<p> L'italia
+<p> L'italia e' bagnata da quattro mari
+  
+  Italy is surrounded by four seas </p>
+  
+  <ul style="list-style-type:disc">
+  <li> Mare Adriatico </li>
+  <li> Mar Ionio </li>
+  <li> Mar Ligure </li>
+  <li> Mar Tirrenio </li>
+</ul>
