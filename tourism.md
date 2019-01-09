@@ -10,14 +10,45 @@
 <div style="clear.both;"> </div>
 
 
+<h2 style="color:green;"> 3 Famose Regioni Italiane / 3 Famous Italian Regions </h2>
+
+<p> <strong> CAMPANIA </strong> </p>
+
+<p> Posti da visitare / Places to visit: </p>
+
+<ul style="list-style-type:disc">
+  <li> Napoli </li>
+  <li> Pompei </li>
+  <li> Ischia </li>
+  <li> Capri </li>
+  <li> Costiera Amalfitana </li>
+  <li> Vesuvio </li>
+</ul>
 
 <p>
-<a style="float:right:" href="map.html" class="btn2">Go to Map of Naples</a>
+<a style="float:right:" href="imagescampania.html" class="btn2">Go to "Images"</a>
+</p>
+<div style="clear.both;"> </div>
+
+<p>
+<a style="float:right:" href="map.html" class="btn2">Go to "Map of Naples"</a>
+</p>
+<div style="clear.both;"> </div>
+
+<p> <strong> SARDEGNA </strong> </p>
+
+<p>
+<a style="float:right:" href="famousregions.html" class="btn2">Go to "Fun fact"</a>
 </p>
 <div style="clear.both;"> </div>
 
 
-<p>
-<a style="float:right:" href="famousregions.html" class="btn2">Go to Famous Regions</a>
-</p>
-<div style="clear.both;"> </div>
+<p> <strong> TOSCANA </strong> </p>
+
+
+
+
+
+
+
+
