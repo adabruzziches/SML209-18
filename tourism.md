@@ -30,6 +30,8 @@
 </p>
 <div style="clear.both;"> </div>
 
+<p> Se interessati, cliccate il tasto qui sotto per trovare la Cartina dell'Italia ferma su Napoli! / If interested, click on the button below to find the Map of Naples! </p>
+
 <p>
 <a style="float:right:" href="map.html" class="btn2">Go to "Map of Naples"</a>
 </p>
