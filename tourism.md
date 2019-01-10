@@ -17,12 +17,12 @@
 <p> Posti da visitare / Places to visit: </p>
 
 <ul style="list-style-type:disc">
-  <li> Napoli </li>
-  <li> Pompei </li>
-  <li> Ischia </li>
-  <li> Capri </li>
-  <li> Costiera Amalfitana </li>
-  <li> Vesuvio </li>
+  <li> Napoli: citta' / city </li>
+  <li> Pompei: paese / town </li>
+  <li> Ischia: isola / island </li>
+  <li> Capri: isola / island </li>
+  <li> Costiera Amalfitana: costiera / coast </li>
+  <li> Vesuvio: vulcano / volcano </li>
 </ul>
 
 <p>
