@@ -9,6 +9,7 @@
 </p>
 <div style="clear.both;"> </div>
 
+<hr>
 
 <h2 style="color:green;"> 3 Famose Regioni Italiane / 3 Famous Italian Regions </h2>
 
@@ -37,6 +38,7 @@
 </p>
 <div style="clear.both;"> </div>
 
+<br>
 <p> <strong> SARDEGNA </strong> </p>
 
 <p> Posti da visitare / Places to visit: </p>
@@ -56,14 +58,23 @@
 <div style="clear.both;"> </div>
 
 <p>
-<a style="float:right:" href="famousregions.html" class="btn2">Go to "Fun fact"</a>
+<a style="float:right:" href="famousregions.html" class="btn2"> Go to "Fun fact" </a>
 </p>
 <div style="clear.both;"> </div>
 
-
+<br>
 <p> <strong> TOSCANA </strong> </p>
 
+<p> Posti da visitare / Places to visit: </p>
 
+<ul style="list-style-type:disc">
+  <li> Firenze: citta' / city </li>
+  <li> Pisa: paese / town </li>
+  <li> Siena: paese / town </li>
+  <li> Colline del Chianti: colline / hills </li>
+  <li> Isola d'Elba: isola / island </li>
+  <li> Forte dei Marmi: localita' costiera / coastal town </li>
+</ul>
 
 
 
