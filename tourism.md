@@ -27,7 +27,7 @@
 </ul>
 
 <p>
-<a style="float:right:" href="imagescampania.html" class="btn2">Go to "Images of Campania"</a>
+<a style="float:right:" href="imagescampania.html" class="btn2">Go to "Campania"</a>
 </p>
 <div style="clear.both;"> </div>
 
@@ -53,7 +53,7 @@
 </ul>
 
 <p>
-<a style="float:right:" href="imagessardinia.html" class="btn2">Go to "Images of Sardinia"</a>
+<a style="float:right:" href="imagessardinia.html" class="btn2">Go to "Sardegna"</a>
 </p>
 <div style="clear.both;"> </div>
 
@@ -75,6 +75,11 @@
   <li> Isola d'Elba: isola / island </li>
   <li> Forte dei Marmi: localita' costiera / coastal town </li>
 </ul>
+
+<p>
+<a style="float:right:" href="imagestoscana.html" class="btn2">Go to "Toscana"</a>
+</p>
+<div style="clear.both;"> </div>
 
 
 
