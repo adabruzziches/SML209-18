@@ -2,7 +2,7 @@
 
 <p lang="it"> La cultura italiana e' caratterizzata da tante cose, come l'importanza della famiglia, la celebrazione di festivita' importanti, seguire le tradizioni, ma anche dalla musica, cinema e cibo. </p> 
 
-<p lang="eng"> The Italian culture is characterised by many things such as the importance of family, the celebration of important holidays, the following of traditions but also by music, cinema and food. </p>
+<p lang="eng"> {The Italian culture is characterised by many things such as the importance of family, the celebration of important holidays, the following of traditions but also by music, cinema and food.} </p>
 
 <hr>
 
@@ -29,12 +29,27 @@
 </p>
 <div style="clear.both;"> </div>
 
-<p>
-<a style="float:right:" href="duegiugno.html" class="btn2"> Go to Festa della Repubblica </a>
-</p>
-<div style="clear.both;"> </div>
-
 <hr>
+
+<h2 style="color:green;"> Musica </h2>
+
+<p lang="it"> La musica e' veramente importante ed unica in Italia! Oggigiorno non e' popolare solamente la musica moderna, ma anche quella degli anni '80, '90 o ancora piu' precedenti... </p>
+           
+<p lang="eng"> {Music is really important and unique in Italy! Nowadays it is not popular only modern music, but also music from the 80s, 90s and even earlier...} </p>           
+
+
+<p style="color:green;"> Alcune canzoni uniche che solo pochi Italiani non conoscono... / Some unique songs that only few Italians won't know </p>
+<ul style="list-style-type:disc">
+  <li> Volare, Domenico Modugno, 1958 </li>
+  <li> Questo piccolo grande amore, Claudio Baglioni (1972) </li>
+  <li> Ma il cielo e' sempre piu' blu, Rino Gaetano (1975) </li>         
+  <li> Pensiero Stupendo, Patty Pravo (1978) </li>
+  <li> Notte prima degli esami, Antonello Venditti (1984) </li>
+  <li> Piccola Stella senza cielo, Luciano Ligabue (1990) </li>
+  <li> La Solitudine, Laura Pausini (1993) </li>
+  <li> Sere Nere, Tiziano Ferro (2003) </li>
+  <li> Questa nostra stupida canzone d'amore, Thegiornalisti (2018) </li>
+
 
 <p>
 <a style="float:right:" href="listening_exercise.html" class="btn2"> Go to Song </a>
