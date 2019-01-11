@@ -20,9 +20,7 @@
 
 <p> <strong> Mare / Sea </strong> </p>
 
-<p> L'italia e' bagnata da quattro mari
-  
-  Italy is surrounded by four seas </p>
+<p> L'italia e' bagnata da quattro mari / Italy is surrounded by four seas </p>
   
   <ul style="list-style-type:disc">
   <li> Mare Adriatico </li>
