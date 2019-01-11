@@ -68,7 +68,14 @@
 </p>
 <div style="clear.both;"> </div>
 
+<hr>
 
+<h2 style="color:green;"> Frasi utili per la vita quotidiana <h2>
+   
+<p>
+<a style="float:right:" href="greetings.html" class="btn2"> Go to Greetings Exercise </a>
+</p>
+<div style="clear.both;"> </div>
 
 
 
