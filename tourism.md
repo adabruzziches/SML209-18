@@ -39,6 +39,18 @@
 
 <p> <strong> SARDEGNA </strong> </p>
 
+<p> Posti da visitare / Places to visit: </p>
+
+<ul style="list-style-type:disc">
+  <li> Cagliari: citta' / city </li>
+  <li> Alghero: paese / town </li>
+  <li> La Maddalena: isola / island </li>
+  <li> Porto Cervo: piccolo centro / small centre </li>
+  <li> Villasimius: paese / town </li>
+  <li> Baja Sardinia: vulcano / volcano </li>
+</ul>
+
+
 <p>
 <a style="float:right:" href="famousregions.html" class="btn2">Go to "Fun fact"</a>
 </p>
