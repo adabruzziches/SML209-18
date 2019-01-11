@@ -9,13 +9,25 @@ This is the perfect moment to indulge with some typical italian treats with fami
 The celebrations happen all around the country but, probably, in this period the most particular city is Venice (the well-known Venetian Carnival) </p>
 
 <p>
-   <a href="shutterstock_127146623.jpg" title="Carnevale">
+   <a "https://commons.wikimedia.org/wiki/File:Carnevale_di_Venezia_-_2010_(4356948093).jpg" title="Carnevale">
       
 <img class="imgLeft"
-    src="shutterstock_127146623.jpg"  alt="Carnevale" height="200" width="300">
+    src="https://commons.wikimedia.org/wiki/File:Carnevale_di_Venezia_-_2010_(4356948093).jpg"  alt="Carnevale" height="200" width="300">
    
    </a>
  
   <p style="clear:both;"></p>
 
 
+
+
+
+
+
+
+<hr> 
+
+<h4>Image attribution</h4>
+<p style="font-size:85%;"> 
+Maschere di Carnevale. Digital image. Wikipedia. 13 February 2010, https://commons.wikimedia.org/wiki/File:Carnevale_di_Venezia_-_2010_(4356948093).jpg.
+</p>
