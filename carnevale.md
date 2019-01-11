@@ -8,6 +8,14 @@ I festeggiamenti avvengono in tutto il paese, ma probabilmente la citta' piu' pa
 This is the perfect moment to indulge with some typical italian treats with family and friends.
 The celebrations happen all around the country but, probably, in this period the most particular city is Venice (the well-known Venetian Carnival) </p>
 
-
+<p>
+   <a href="shutterstock_127146623.jpg" title="Carnevale">
+      
+<img class="imgLeft"
+    src="shutterstock_127146623.jpg"  alt="Carnevale" height="200" width="300">
+   
+   </a>
+ 
+  <p style="clear:both;"></p>
 
 
