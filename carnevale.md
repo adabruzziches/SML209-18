@@ -14,7 +14,7 @@ The celebrations happen all around the country but, probably, in this period the
  title="Carnevale">
      
  <img class="imgLeft"
- src="https://upload.wikimedia.org/wikipedia/commons/9/94/Carnevale_di_Venezia_-_2010_%284356948093%29.jpg" alt="Carnevale">
+ src="https://upload.wikimedia.org/wikipedia/commons/9/94/Carnevale_di_Venezia_-_2010_%284356948093%29.jpg" alt="Carnevale" height="500">
 
  </a>
 
