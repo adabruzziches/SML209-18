@@ -58,7 +58,7 @@
 <a style="float:right:" href="imagessardinia.html" class="btn2">Go to "Sardegna"</a>
 </p>
 <div style="clear.both;"> </div>
-<br>
+
 <p>
 <a style="float:right:" href="famousregions.html" class="btn2"> Go to "Interesting fact" </a>
 </p>
