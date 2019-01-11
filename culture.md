@@ -23,7 +23,7 @@
   <li> <strong> 25 Dicembre / 25th December: </strong> Natale / Christmas </li>
   <li> <strong> 26 Dicembre / 26th December: </strong> Santo Stefano / Saint Stephen </li> 
 </ul>
-
+<br>
 <p>
 <a style="float:right:" href="carnevale.html" class="btn2"> Go to Carnevale </a>
 </p>
