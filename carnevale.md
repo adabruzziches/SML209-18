@@ -9,11 +9,11 @@ This is the perfect moment to indulge with some typical italian treats with fami
 The celebrations happen all around the country but, probably, in this period the most particular city is Venice (the well-known Venetian Carnival)} </p>
 
 <p>
-   <a href="https://commons.wikimedia.org/wiki/File:Carnevale_di_Venezia_-_2010_(4356948093).jpg" 
+   <a href="https://upload.wikimedia.org/wikipedia/commons/9/94/Carnevale_di_Venezia_-_2010_%284356948093%29.jpg" 
  title="Carnevale">
      
  <img class="imgLeft"
- src="https://commons.wikimedia.org/wiki/File:Carnevale_di_Venezia_-_2010_(4356948093).jpg" alt="Carnevale" height="200" width="300">
+ src="https://upload.wikimedia.org/wikipedia/commons/9/94/Carnevale_di_Venezia_-_2010_%284356948093%29.jpg" alt="Carnevale" height="200" width="300">
 
  </a>
 
