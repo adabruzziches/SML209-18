@@ -26,7 +26,7 @@
 </ul>
 
 <p>
-<a style="float:right:" href="imagescampania.html" class="btn2">Go to "Images"</a>
+<a style="float:right:" href="imagescampania.html" class="btn2">Go to "Images of Campania"</a>
 </p>
 <div style="clear.both;"> </div>
 
@@ -44,12 +44,16 @@
 <ul style="list-style-type:disc">
   <li> Cagliari: citta' / city </li>
   <li> Alghero: paese / town </li>
-  <li> La Maddalena: isola / island </li>
-  <li> Porto Cervo: piccolo centro / small centre </li>
   <li> Villasimius: paese / town </li>
-  <li> Baja Sardinia: vulcano / volcano </li>
+  <li> Baja Sardinia: paese / town </li>
+  <li> La Maddalena: isola / island </li>
+  <li> Costa Smeralda: costa / coastal area </li>
 </ul>
 
+<p>
+<a style="float:right:" href="imagessardinia.html" class="btn2">Go to "Images of Sardinia"</a>
+</p>
+<div style="clear.both;"> </div>
 
 <p>
 <a style="float:right:" href="famousregions.html" class="btn2">Go to "Fun fact"</a>
