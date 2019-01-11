@@ -6,7 +6,7 @@
 
 <hr>
 
-<h2 style="color:green;> Festivita' importanti / Important celebrations </h2>
+<h2 style="color:green;"> Festivita' importanti / Important celebrations </h2>
            
 <ul style="list-style-type:disc">
   <li> <strong> 1 Gennaio / 1st January: </strong>  Primo dell'anno / first day of the Year </li>
