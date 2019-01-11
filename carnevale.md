@@ -7,17 +7,18 @@ I festeggiamenti avvengono in tutto il paese, ma probabilmente la citta' piu' pa
 <p lang="eng"> {Carnival is the time of the year where Italians get ready for the 40 days of Lent before Easter.
 This is the perfect moment to indulge with some typical italian treats with family and friends.
 The celebrations happen all around the country but, probably, in this period the most particular city is Venice (the well-known Venetian Carnival)} </p>
+<br>
 
 <p>
    <a href="https://upload.wikimedia.org/wikipedia/commons/9/94/Carnevale_di_Venezia_-_2010_%284356948093%29.jpg" 
  title="Carnevale">
      
  <img class="imgLeft"
- src="https://upload.wikimedia.org/wikipedia/commons/9/94/Carnevale_di_Venezia_-_2010_%284356948093%29.jpg" alt="Carnevale" height="200" width="300">
+ src="https://upload.wikimedia.org/wikipedia/commons/9/94/Carnevale_di_Venezia_-_2010_%284356948093%29.jpg" alt="Carnevale">
 
  </a>
 
-<p lang="it"> Carnevale di Venezia </p>
+<p lang="it"> <i> Carnevale di Venezia </i> </p>
  
  <p style="clear:both;"></p>
 
