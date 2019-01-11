@@ -1,11 +1,9 @@
-<h1 style="color:green;"> Culture</h1>
+<h1 style="color:green;"> Culture </h1>
 
-<h2 style="color:green;"> Greetings </h2>
+<p lang="it"> La cultura italiana e' caratterizzata da tante cose, come l'importanza della famiglia, la celebrazione di festivita' importanti, seguire le tradizioni, ma anche dalla musica, cibo e architettura </p> 
 
-<p>
-<a style="float:right:" href="greetings.html" class="btn2">Go to Greetings Exercise</a>
-</p>
-<div style="clear.both;"> </div>
+
+
 
 
 
