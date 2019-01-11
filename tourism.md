@@ -2,7 +2,7 @@
 
 <h2 style="color:green;"> Paesaggi Italiani / Italian Landscapes </h2>
 
-<p> L'Italia e' famosa per i suoi bellissimi paesaggi, attrazioni turistiche e per la sua architettura. In Italia c'e' tutto, <strong>montagna, mare, citta', paesi, laghi, fiumi , colline</strong> ... </p>
+<p> L'Italia e' famosa per i suoi bellissimi paesaggi, attrazioni turistiche e per la sua architettura. In Italia c'e' tutto, <strong>montagna, mare, citta', paesi, laghi, fiumi , colline</strong> ... / Italy is well known for its beautiful landscapes, touristic attractions and for its architecture. In Italy you can find everything, mountains, sea, cities, towns, lakes, rivers, hills... </p> 
   
 <p>
 <a style="float:right:" href="paesaggi.html" class="btn2">Go to "Paesaggi"</a>
