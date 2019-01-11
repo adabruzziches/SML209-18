@@ -13,7 +13,7 @@
   <li> <strong> 6 Gennaio / 6th January: </strong>  Epifania / Epiphany </li>
   <li> <strong> 14 Febbraio / 14th February: </strong> San Valentino / Valentine's Day </li>
   <li> <strong> 8 Marzo / 8th March </strong> La Festa delle Donne / International Women's Day </li>
-  <li> <strong> Pasqua / Easter & Pasquetta / Easter Monday </strong>  </li>
+  <li> <strong> Pasqua & Pasquetta </strong> Easter & Easter Monday </li>
   <li> <strong> 25 Aprile / 25th April:</strong> La Festa della Liberazione / Liberation Day (end of WWII) </li>
   <li> <strong> 1 Maggio / 1st May: </strong>  La festa dei Lavoratori / Labour Day </li>
   <li> <strong> 2 Giugno / 2nd June:</strong> La Festa della Repubblica / Birth of the Italian Republic </li>
