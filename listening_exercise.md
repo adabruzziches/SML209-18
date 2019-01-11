@@ -8,13 +8,13 @@
 
 <p> CANZONE: <i> Notte prima degli esami </i> </P>
 
-<iframe width="560" height="315" src="https://youtu.be/7Uq3jlMUCdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Uq3jlMUCdg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe src="https://h5p.org/h5p/embed/406024" width="1090" height="1120" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <p> CANZONE <i> Questa nostra stupida canzone d'amore </i> </p>
 
-<iframe width="560" height="315" src="https://youtu.be/0HUkv6jgerA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0HUkv6jgerA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe src="https://h5p.org/h5p/embed/406026" width="1090" height="1960" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
