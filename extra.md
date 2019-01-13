@@ -3,12 +3,10 @@
 <h2 stle="color:green;"> Altri siti Utili / Other useful Websites </h2>
 
 <ul>
-  <li> Quizlet  </li>
-  <li>  </li>
-  <li>  </li>
-  <li>  </li>
-  <li>  </li>
-  <li>  </li>
+  <li> Quizlet(Website): https://quizlet.com/subject/italian/</li>
+  <li> Duolingo (Website): https://www.duolingo.com/course/it/en/Learn-Italian-Online </li>
+  <li> BBC Learn Italian (Website): http://www.bbc.co.uk/languages/italian/ </li>
+  <li> Wordreference (Dictionary): http://www.wordreference.com/enit/ </li>
 </ul>
 
 
