@@ -15,3 +15,13 @@
 <p lang="en"> {This image portrays the Island of Budelli, located in Sardinia (Italy). Budelli is considered one of the most beautiful islands in the Mediterranean Sea. It is especially renowned for its Spiaggia Rosa ("Pink Beach"), in the south-eastern part of the island.} </p> 
  
  <p style="clear:both;"></p>
+ 
+ 
+ 
+ 
+ <hr> 
+
+<h4>Image attribution</h4>
+<p style="font-size:85%;"> 
+Isola di Budelli. Digital image. Wikipedia. 19 September 2012, https://it.wikipedia.org/wiki/File:Spiaggia_rosa,_isola_di_budelli,_sardegna.jpg
+</p>
