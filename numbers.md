@@ -1,4 +1,3 @@
-
 <h2 style="color:green;"> Numeri da 1 a 20 / Numbers from 1 to 20 </h2>
 
 <table lang="it">
