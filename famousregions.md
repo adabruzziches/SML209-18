@@ -24,8 +24,7 @@
 <div style="clear:both;"> </div>
 
 
- <br> 
- <hr> 
+<hr> 
 
 <h4>Image attribution</h4>
 <p style="font-size:85%;"> 
