@@ -54,6 +54,12 @@
  <li> Gelato </li>
 </ul>
 
+<hr>
+<p>
+<a style="float:right:" href="extrafood.html" class="btn2"> Go to Extra on Food </a>
+</p>
+<div style="clear.both;"> </div>
+
 
 <hr>
 <p> 
