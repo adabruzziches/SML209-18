@@ -18,12 +18,10 @@
 </p>
 <div style="clear.both;"> </div>
 
-
 <p>
-<a style="float:right:" href="extrafood.html" class="btn2"> Go to Extra on Food</a>
+<a style="float:right:" href="extrafood.html" class="btn2">Go to Extra on Food</a>
 </p>
 <div style="clear.both;"> </div>
-
 
 <hr>
 <h2 style="color:green;"> Mezzi di Trasporto / Transports </h2>
