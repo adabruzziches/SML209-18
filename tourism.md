@@ -52,7 +52,7 @@
 </p>
 <div style="clear.both;"> </div>
 
-<br>
+<hr>
 <p> <strong> SARDEGNA </strong> </p>
 
 <p>
@@ -89,7 +89,7 @@
 </p>
 <div style="clear.both;"> </div>
 
-<br>
+<hr>
 <p> <strong> TOSCANA </strong> </p>
 
 <p>
