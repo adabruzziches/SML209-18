@@ -31,7 +31,7 @@
 
 <hr>
 
-<h2 style="color:green;"> Musica </h2>
+<h2 style="color:green;"> Musica / Music </h2>
 
 <p lang="it"> La musica e' veramente importante ed unica in Italia! Oggigiorno non e' popolare solamente la musica moderna, ma anche quella degli anni '80, '90 o ancora piu' precedenti... </p>
            
