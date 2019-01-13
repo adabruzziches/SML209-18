@@ -10,10 +10,6 @@
     src="https://clipart4school.com/wp-content/uploads/2018/05/Italian-Food-Clipart-preview.jpg" alt="Image of Italian Food" height="450" width="350">
    
    </a>
-
-<p lang="it"> In questa immagine sono esposti solo alcuni dei cibi italiani piu' conosciuti nel mondo  </p>
-
-<p lang="en"> {This image portrays only few of the most well-know Italian dishes} </p> 
  
   <p style="clear:both;"></p>
   
@@ -52,7 +48,7 @@
    <a href="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link" title="Numeri">
       
 <img class="imgLeft"
-    src="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link"  alt="Numeri" height="300" width="200">
+    src="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link"  alt="Numeri">
    
    </a>
  
