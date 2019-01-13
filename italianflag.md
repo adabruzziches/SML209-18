@@ -1,5 +1,5 @@
-<h1 style="color:green;"> Significato dei colori della bandiera italiana / Meaning of the colours of the Italian flag </h1>
-<h2> Il tricolore </h2>
+<h3 style="color:green;"> Significato dei colori della bandiera italiana / Meaning of the colours of the Italian flag </h3>
+<h3> Il tricolore </h3>
 
 
 <p> La bandiera italiana e' composta da tre bande verticali, rispettivamente di colore verde, bianco e rosso. Ognuno dei tre colori hanno un significato collegato al nostro paese: </p>
