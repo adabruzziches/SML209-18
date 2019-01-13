@@ -24,7 +24,15 @@
 
 <h2 style="color:green;"> Mezzi di Trasporto / Transports </h2>
 
-<a title="David, Olivier Guin, Jule Steffen &amp; Matthias Schmidt [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Transports_icon.png"><img width="450" alt="Transports icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Transports_icon.png/512px-Transports_icon.png"></a>
+<p>
+   <a href="https://commons.wikimedia.org/wiki/File:Transports_icon.png" title="Trasporti">
+      
+<img class="imgLeft"
+    src="https://commons.wikimedia.org/wiki/File:Transports_icon.png"  alt="Trasporti">
+   
+   </a>
+ 
+  <p style="clear:both;"></p>
 
 
 <p>
@@ -48,7 +56,7 @@
    <a href="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link" title="Numeri">
       
 <img class="imgLeft"
-    src="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link"  alt="Numeri">
+    src="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link"  alt="Numeri" height="200" width="300">
    
    </a>
  
