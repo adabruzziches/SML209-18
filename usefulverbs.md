@@ -6,6 +6,6 @@
 
 <hr>
 <p> 
-<a style="float:left;" href="language.html" class="btn2"> Back to Language</a>
+<a style="float:left;" href="grammar.html" class="btn2"> Back to Grammar</a>
 </p>
 <div style="clear:both;"> </div>
