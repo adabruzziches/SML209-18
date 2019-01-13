@@ -13,7 +13,7 @@
 
 <p lang="it"> In questa immagine sono esposti solo alcuni dei cibi italiani piu' conosciuti nel mondo  </p>
 
-<p lang="en">(This image portrays only few of the most well-know Italian dishes) </p> 
+<p lang="en"> {This image portrays only few of the most well-know Italian dishes} </p> 
  
   <p style="clear:both;"></p>
   
@@ -85,5 +85,13 @@
 
 
 
+<hr> 
+<h4>Image attribution</h4>
+<p style="font-size:85%;"> 
+Italian Food. Digital image.https://clipart4school.com/wp-content/uploads/2018/05/Italian-Food-Clipart-preview.jpg. <br>
+Transports. Digital image. Wikimedia. 29 January 2018, https://commons.wikimedia.org/wiki/File:Transports_icon.png. <br>
+Name of image. Digital image. SOURCE. DATE, LINK. <br>
+Name of image. Digital image. SOURCE. DATE, LINK. <br>
+</p>
 
 
