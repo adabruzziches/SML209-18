@@ -1,5 +1,10 @@
 <h1 style="color:green;"> GRAMMAR </h1>
   
+<p lang="it"> La grammatica italiana e' forse una tra le piu' vaste e complesse. Se sei in vacanza e vuoi semplicemente essere capito pero', non e' necessario saperla perfettamente, qualche base e' abbastanza. Per questo motivo, ecco alcuni verbi utili da sapere! </p>
+
+<p lang="eng"> {Italian grammar is probably one of the most vast and complex. However, if you are holiday and you just wish to be understood, you don't need to know it properly. For these reason, here are some useful verbs!} </p>
+
+  
  <h3> Verbo Essere / To Be </h3>
   <table lang="it">
   <tr> <th>Pronoun</th> <th>Presente</th> <th>Passato</th>  <th> Futuro</th> </tr>
@@ -39,7 +44,7 @@
 
 <hr>
 
-<h3> Other useful verbs ending in "-are" </h3>
+<h3> Altri verbi utili / Other useful verbs </h3>
 
 <ul>
  <li> Andare / To Go </li>
