@@ -13,7 +13,7 @@
 
 <hr>
 
-<h2 style="color:green;"> 3 Famose Regioni Italiane / 3 Famous Italian Regions </h2>
+<h2 style="color:green;"> Tre regioni italiane da scoprire / Three Italian regions to discover </h2>
 
 <p> <strong> CAMPANIA </strong> </p>
 
