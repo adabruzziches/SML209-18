@@ -1,4 +1,4 @@
-<h1 style="color:green;"> Culture </h1>
+<h1 style="color:green;"> CULTURE </h1>
 
 <p lang="it"> La cultura italiana e' caratterizzata da tante cose, come l'importanza della famiglia, la celebrazione di festivita' importanti, seguire le tradizioni, ma anche dalla musica, cinema e cibo. </p> 
 
