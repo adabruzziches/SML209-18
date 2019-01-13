@@ -7,6 +7,6 @@
 
 <hr>
 <p> 
-<a style="float:left;" href="vocabulary.html" class="btn2"> Back to Vocabulary</a>
+<a style="float:left;" href="food.html" class="btn2"> Back to Food Categories</a>
 </p>
 <div style="clear:both;"> </div>
