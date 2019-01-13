@@ -60,7 +60,7 @@
 <div style="clear.both;"> </div>
 
 <p>
-<a style="float:right:" href="dialognumbers.html" class="btn2">Go to Exercise on Numbers</a>
+<a style="float:right:" href="dialognumbers.html" class="btn2">Go to Extra on Numbers</a>
 </p>
 <div style="clear.both;"> </div>
 
@@ -86,8 +86,7 @@
 <p style="font-size:85%;"> 
 Italian Food. Digital image.https://clipart4school.com/wp-content/uploads/2018/05/Italian-Food-Clipart-preview.jpg. <br>
 Transports. Digital image. Wikimedia. 29 January 2018, https://commons.wikimedia.org/wiki/File:Transports_icon.png. <br>
-Name of image. Digital image. SOURCE. DATE, LINK. <br>
-Name of image. Digital image. SOURCE. DATE, LINK. <br>
+Numbers. Digital image. Public Domaine Pictures, https://www.publicdomainpictures.net/en/view-image.php?image=35568&picture=numbers-colorful-clip-art. <br>
 </p>
 
 
