@@ -26,7 +26,7 @@
 
  </a>
 
-<p lang="it"> <i> Lo sapevi? La pizza margherita e' nata a Napoli! / {Did you know? Pizza margherita was born in Naples!} </i> </p>
+<p lang="it"> <i> Lo sapevi? La pizza margherita e' nata a Napoli! {Did you know? Pizza margherita was born in Naples!} </i> </p>
  
  <p style="clear:both;"></p>
 
