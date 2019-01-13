@@ -29,7 +29,16 @@
   <li> Mar Tirrenio </li>
 </ul>
 
+<hr>
 <p>
 <a style="float:right:" href="quiz.html" class="btn2">Go to "Quiz"</a>
 </p>
 <div style="clear.both;"> </div>
+
+
+<hr>
+<p> 
+<a style="float:left;" href="tourism.html" class="btn2"> Back to Tourism</a>
+</p>
+<div style="clear:both;"> </div>
+
