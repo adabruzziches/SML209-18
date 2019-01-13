@@ -18,14 +18,14 @@
   <li> Red: it is a tribute to all the soldiers who lost their lives in the wars in which Italy took part} </li>
 </ul>
 
+<hr>
 
-<hr> 
-<br>
 <h4>Content attribution</h4>
 <p style="font-size:85%;"> 
 https://www.italiaunita150.it/bandiera-italiana/
 </p>
 
+<hr>
 
 <p>
 <a style="float:right:" href="home.html" class="btn2">Go back to Home </a>
