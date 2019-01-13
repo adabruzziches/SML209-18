@@ -67,6 +67,19 @@
 <br>
 <p> <strong> TOSCANA </strong> </p>
 
+<p>
+   <a href="960px-Map_Region_of_Toscana.svg.png " 
+ title="Toscana">
+     
+ <img class="imgLeft"
+ src="960px-Map_Region_of_Toscana.svg.png" alt="Toscana">
+
+ </a>
+
+<p lang="it"> <i> Toscana </i> </p>
+ 
+ <p style="clear:both;"></p>
+
 <p> Posti da visitare / Places to visit: </p>
 
 <ul style="list-style-type:disc">
