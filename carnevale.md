@@ -21,8 +21,12 @@ The celebrations happen all around the country but, probably, in this period the
  
  <p style="clear:both;"></p>
 
+<hr>
 
-
+<p> 
+<a style="float:left;" href="culture.html" class="btn2"> Back to Culture </a>
+</p>
+<div style="clear:both;"> </div>
 
 
 <hr> 
