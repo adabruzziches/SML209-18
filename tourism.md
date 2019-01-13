@@ -128,7 +128,7 @@
 <p style="font-size:85%;"> 
 Toscana. Digital image. Wikipedia. 29 September 2018, https://upload.wikimedia.org/wikipedia/commons/6/64/Montepulciano_Toscana_Italy_City_Landscape.jpg. <br>
 Sardegna. Digital image. Wikipedia. 13 May 2014, https://upload.wikimedia.org/wikipedia/commons/c/c5/Chia_beach%2C_Sardinia%2C_Italy.jpg. <br>
-Campania. Digital image. Wikipedia. 6 September 2005, https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg. <br>
+Campania. Digital image. Wikimedia. 6 September 2005, https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg. <br>
 </p>
 
 
