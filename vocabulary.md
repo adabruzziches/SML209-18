@@ -53,16 +53,6 @@
 <h2 style="color:green;"> Numeri / Numbers </h2>
 
 <p>
-   <a href="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link" title="Numeri">
-      
-<img class="imgLeft"
-    src="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link"  alt="Numeri" height="200" width="200">
-   
-   </a>
- 
-  <p style="clear:both;"></p>
-
-<p>
 <a style="float:right:" href="numbers.html" class="btn2"> Go to Numbers </a>
 </p>
 <div style="clear.both;"> </div>
