@@ -1,4 +1,4 @@
-<h2 style="color:green;"> I cibi piu' amati in Italia / Most loved Food in Italy </h2>
+<h3 style="color:green;"> I cibi piu' amati in Italia / Most loved Food in Italy </h3>
 
 <h3 style="color:green;"> Categorie / Categories </h3>
 <ul>
