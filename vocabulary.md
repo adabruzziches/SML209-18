@@ -17,11 +17,9 @@
 <a style="float:right:" href="food.html" class="btn2">Go to Food Categories</a>
 </p>
 <div style="clear.both;"> </div>
-  
-  
-  <hr>
 
 
+<hr>
 <h2 style="color:green;"> Mezzi di Trasporto / Transports </h2>
 
 <p>
@@ -48,8 +46,6 @@
 
 
 <hr>
-
-
 <h2 style="color:green;"> Numeri / Numbers </h2>
 
 <p>
@@ -62,8 +58,8 @@
 </p>
 <div style="clear.both;"> </div>
 
-<hr>
 
+<hr>
 <h2 style="color:green;"> Frasi utili per la vita quotidiana / Useful phrases for daily life </h2>
    
 <p>
