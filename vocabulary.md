@@ -86,7 +86,6 @@
 <p style="font-size:85%;"> 
 Italian Food. Digital image.https://clipart4school.com/wp-content/uploads/2018/05/Italian-Food-Clipart-preview.jpg. <br>
 Transports. Digital image. Wikimedia. 24 October 2008, https://commons.wikimedia.org/wiki/File:Museum_of_Transport_in_Manchester.jpg. <br>
-Numbers. Digital image. Public Domaine Pictures, https://www.publicdomainpictures.net/en/view-image.php?image=35568&picture=numbers-colorful-clip-art. <br>
 </p>
 
 
