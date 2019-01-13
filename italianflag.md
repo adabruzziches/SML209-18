@@ -28,6 +28,6 @@ https://www.italiaunita150.it/bandiera-italiana/
 <hr>
 
 <p>
-<a style="float:right:" href="home.html" class="btn2"> Go back to Home </a>
+<a style="float:right:" href="index.html" class="btn2"> Go back to Home </a>
 </p>
 <div style="clear.both;"> </div>
