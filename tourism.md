@@ -17,6 +17,19 @@
 
 <p> <strong> CAMPANIA </strong> </p>
 
+<p>
+   <a href="https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg" 
+ title="Sardegna">
+     
+ <img class="imgLeft"
+ src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg" alt="Sardegna">
+
+ </a>
+
+<p lang="it"> <i> Lo sapevi? La pizza margherita e' nata a Napoli! / Did you know? Pizza margherita was born in Naples! </i> </p>
+ 
+ <p style="clear:both;"></p>
+
 <p> Posti da visitare / Places to visit: </p>
 
 <ul style="list-style-type:disc">
@@ -34,7 +47,6 @@
 <div style="clear.both;"> </div>
 
 <p> Se interessati, cliccate il tasto qui sotto per trovare la Cartina dell'Italia ferma su Napoli! / If interested, click on the button below to find the Map of Naples! </p>
-
 <p>
 <a style="float:right:" href="map.html" class="btn2">Go to "Map of Naples"</a>
 </p>
@@ -42,6 +54,19 @@
 
 <br>
 <p> <strong> SARDEGNA </strong> </p>
+
+<p>
+   <a href="https://upload.wikimedia.org/wikipedia/commons/4/46/Sardegna%2C_Italy.jpg" 
+ title="Sardegna">
+     
+ <img class="imgLeft"
+ src="https://upload.wikimedia.org/wikipedia/commons/4/46/Sardegna%2C_Italy.jpg" alt="Sardegna">
+
+ </a>
+
+<p lang="it"> <i> Sardegna </i> </p>
+ 
+ <p style="clear:both;"></p>
 
 <p> Posti da visitare / Places to visit: </p>
 
@@ -68,11 +93,11 @@
 <p> <strong> TOSCANA </strong> </p>
 
 <p>
-   <a href="960px-Map_Region_of_Toscana.svg.png " 
+   <a href="https://upload.wikimedia.org/wikipedia/commons/6/64/Montepulciano_Toscana_Italy_City_Landscape.jpg" 
  title="Toscana">
      
  <img class="imgLeft"
- src="960px-Map_Region_of_Toscana.svg.png" alt="Toscana">
+ src="https://upload.wikimedia.org/wikipedia/commons/6/64/Montepulciano_Toscana_Italy_City_Landscape.jpg" alt="Toscana">
 
  </a>
 
@@ -98,6 +123,12 @@
 
 
 
-
+<hr> 
+<h4>Image attribution</h4>
+<p style="font-size:85%;"> 
+Toscana. Digital image. Wikipedia. 29 September 2018, https://upload.wikimedia.org/wikipedia/commons/6/64/Montepulciano_Toscana_Italy_City_Landscape.jpg. <br>
+Sardegna. Digital image. Wikipedia. 13 May 2014, https://upload.wikimedia.org/wikipedia/commons/4/46/Sardegna%2C_Italy.jpg. <br>
+Campania. Digital image. Wikipedia. 6 September 2005, https://upload.wikimedia.org/wikipedia/commons/a/a3/Eq_it-na_pizza-margherita_sep2005_sml.jpg. <br>
+</p>
 
 
