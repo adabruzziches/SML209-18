@@ -51,9 +51,6 @@
 
 <p lang="en"> {First of all, I want to show you a map of the Italian <strong> <u>peninsula</u> </strong>* that shows both its regions and their respective Regional County Seats. Despite the country's surface covers only 116,350 sq mi, Italy has an infinite number of wonders! A whole year would probably not be enough time to visit everything!} </p>
 
-<br>
-<br>
-<br>
 <dl>
   <dt>Definizione: <u>Penisola</u>*</dt>
   <dd lang="it">Una penisola è un'area geografica le cui terre sono circondate per lo più da acqua e collegate alla terraferma soltanto da un lato.</dd>
