@@ -66,7 +66,7 @@
 
 <hr>
 
-<h2 style="color:green;"> Frasi utili per la vita quotidiana <h2>
+<h2 style="color:green;"> Frasi utili per la vita quotidiana </h2>
    
 <p>
 <a style="float:right:" href="politeness.html" class="btn2"> Go to Useful phrases</a>
