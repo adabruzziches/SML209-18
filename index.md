@@ -1,17 +1,21 @@
-<h1 style="color:green;"> Benvenuti! </h1>
-<h2 style="color:green;"> Impara l'italiano in pochi giorni! </h2>
+<h1 style="color:green;"> BENVENUTI! </h1>
+<h1 style="color:green;"> Impara l'italiano in pochi giorni! </h1>
 
 <hr>
 
-<p> <strong>Ciao!</strong> My name is Ada, I am Italian and a current student at Queen Mary University of London. <a href="https://hub.qmplus.qmul.ac.uk"> Visit my QMplus Hub page </a> Questo sito vi dara' la possibilita' di esplorare la cultura italiana, potendo scroprire fatti interessanti riguardanti il paese e avendo allo stesso tempo un assaggio della lingua che vi permettera' di "sopravvivere" nel caso in cui pianificate di andare a visitare il paese ma non conoscete nemmeno una parola! </p> 
+<p lang="it"> <strong>Ciao!</strong> Questo sito vi dara' la possibilita' di approcciare la lingua italiana e di imparare il necessario per parlare in italiano quando visiterete il paese da turisti! Potrete esplorare la nostra cultura e scroprire fatti interessanti riguardanti il paese. </p> 
+
+<p lang="eng"> {<strong>Ciao!</strong> This website will give you the chance to approach the Italian language and to learn what is necessary to speak in Italian when visiting the country as tourists! You will have the opportunity to explore our culture and to discover some interesting facts about the country.} </p> 
 
 <hr>
 
-<p> Per chi non lo sapesse, l'Italia e' una Repubblica Parlamentare. Il 1 Gennaio 1948 puo' essere considerata come la data della nascita della Rupubblica Italiana perche' fu' la giornata in cui la "Costitutuzione della Repubblica Italiana" entro' in vigore. In Italia, la "Festa della Repubblica viene celebrata il 2 Giugno"; questa data si riferisce al 2 Giugno 1946, giornata in cui ci fu' il referendum istituzionale per la nascita della Repubblica. </p>
+<p lang="it"> Per chi non lo sapesse, l'Italia e' una Repubblica Parlamentare. Il 1 Gennaio 1948 puo' essere considerata come la data della nascita della Rupubblica Italiana perche' fu' la giornata in cui la "Costitutuzione della Repubblica Italiana" entro' in vigore. In Italia, la "Festa della Repubblica viene celebrata il 2 Giugno"; questa data si riferisce al 2 Giugno 1946, giornata in cui ci fu' il referendum istituzionale per la nascita della Repubblica. </p>
+
+<p lang="eng"> {For those of you who don't know, Italy is a Parliamentary Republic. The date 1st January 1948 can be considered as the day when the Italian Republic was born because it is when the "Italian Constitution" became official. In Italy, the 2nd of June is the day of its celebration; this date refers to the 2nd June 1946 when there was the referendum for the establishment of the Republic.} </p>
 
 <hr>
 
-<h3 style="color:green;"> La Bandiera della Repubblica Italiana </h3>
+<h2 style="color:green;"> La Bandiera della Repubblica Italiana / The Italian Flag </h2>
 
 <p>
    <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/2000px-Flag_of_Italy.svg.png" 
@@ -32,6 +36,8 @@
 
 <hr>
 
+<h2 style="color:green;"> Cartina Italiana / Map of Italy </h2>
+
 <p>
    <a href="http://4.bp.blogspot.com/--eWVFHpbX3Y/UlRtTnyZicI/AAAAAAAAA-s/kNksjAQY8zc/s1600/Italia+politica.jpg" 
  title="Mappa dell'Italia">
@@ -41,27 +47,26 @@
  
  </a>
 
-<p lang="it"> Prima di tutto, voglio mostrarvi una mappa della <u>penisola</u>* italiana, comprendente le sue regioni e rispettivi capoluoghi. Nonostante la superfice ricoperta dal paese sia  di solamente 301,340 km2, le meraviglie italiane sono infinite e non basterebbe un anno per poterla visitare completamente! </p>
+<p lang="it"> Prima di tutto, voglio mostrarvi una mappa della <strong> <u>penisola</u> </strong>* italiana, comprendente le sue regioni e rispettivi capoluoghi. Nonostante la superfice ricoperta dal paese sia  di solamente 301,340 km2, le meraviglie italiane sono infinite e non basterebbe un anno per poterla visitare completamente! </p>
 
-<p lang="en"> (First of all, I want to show you a map of the Italian peninsula that shows both its regions and their respective Regional County Seats. Despite the country's surface covers only 116,350 sq mi, Italy has an infinite number of wonders! A whole year would probably not be enough time to visit everything!) </p>
+<p lang="en"> {First of all, I want to show you a map of the Italian peninsula that shows both its regions and their respective Regional County Seats. Despite the country's surface covers only 116,350 sq mi, Italy has an infinite number of wonders! A whole year would probably not be enough time to visit everything!} </p>
 
+<br>
 <dl>
   <dt>Definizione: <u>Penisola</u>*</dt>
-  <dd lang="it">Una penisola è una formazione geografica consistente in un'estesa sporgenza di terre circondate per lo più da acqua e collegate alla terraferma soltanto da un lato.</dd>
+  <dd lang="it">Una penisola è un'area geografica le cui terre sono circondate per lo più da acqua e collegate alla terraferma soltanto da un lato.</dd>
 </dl>
 
+<dl>
+  <dt>{Definition: <u>Peninsula</u>*</dt>
+  <dd lang="eng">A paeninsula is a geographic area whose borders are mainly surrounded by water and are connected to the mainland only on one side.}</dd>
+</dl>
 
 <p style="clear:both;"> </p>
 
 
-<br> <p> {Image Source: Orlando, L. (2018). Regioni e capoluoghi d'Italia. [online] Leilaorlando.blogspot.com. Available at: http://leilaorlando.blogspot.com/2013/10/regioni-e-capoluoghi-ditalia.html [Accessed 24 Nov. 2018]} </p>
-
-
-
 <hr>
-
-
-<h3 style="color:green;"> Inno di Mameli - Italian National Anthem </h3>
+<h2 style="color:green;"> Inno di Mameli / Italian National Anthem </h2>
 
 <audio controls>
  
@@ -88,14 +93,20 @@ Raccolgaci un'unica bandiera, una speme:
 di fonderci insieme gi l'ora suono. <br>
 Uniti per Dio, chi vincer ci puo?<br>
 
-
 </p>
 
 
-<p> <br> {MP3 Source: http://www.portalestoria.net/inni%20nazionali%20mp3.htm} </p>
 
+<hr> 
+<h4>Image attribution</h4>
+<p style="font-size:85%;"> 
+Bandiera Italiana. Digital image. Wikipedia. 28 September 2005, https://so.wikipedia.org/wiki/File:Flag_of_Italy.svg. <br>
+Cartina Italiana. Digital image. Diario di Scuola. http://leilaorlando.blogspot.com/2013/10/regioni-e-capoluoghi-ditalia.html. 
+</p>
 
-
-
+<h4>Audio attribution</h4>
+<p style="font-size:85%;"> 
+Inno di Mameli. MP3 source. Portale Storia.http://www.portalestoria.net/inni%20nazionali%20mp3.htm.
+</p>
 
 
