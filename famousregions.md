@@ -16,7 +16,15 @@
  
  <p style="clear:both;"></p>
  
- <br>
+ <hr>
+
+<p> 
+<a style="float:left;" href="tourism.html" class="btn2"> Back to Tourism </a>
+</p>
+<div style="clear:both;"> </div>
+
+
+ <br> 
  <hr> 
 
 <h4>Image attribution</h4>
