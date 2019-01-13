@@ -13,8 +13,14 @@
  
   <p style="clear:both;"></p>
   
-  <p>
+<p>
 <a style="float:right:" href="food.html" class="btn2">Go to Food Categories</a>
+</p>
+<div style="clear.both;"> </div>
+
+
+<p>
+<a style="float:right:" href="extra.html" class="btn2">Go to Extra on Food</a>
 </p>
 <div style="clear.both;"> </div>
 
