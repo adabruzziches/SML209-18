@@ -1,6 +1,5 @@
 <h1 style="color:green;"> BENVENUTI! </h1>
 <h1 style="color:green;"> Impara l'italiano in pochi giorni! </h1>
-<h2 style="color:green;"> {Learn Italian in a few days!} </h2>
 
 <hr>
 
