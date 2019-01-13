@@ -16,9 +16,7 @@
  
  <p style="clear:both;"></p>
  
- 
- 
- 
+ <br>
  <hr> 
 
 <h4>Image attribution</h4>
