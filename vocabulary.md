@@ -25,10 +25,10 @@
 <h2 style="color:green;"> Mezzi di Trasporto / Transports </h2>
 
 <p>
-   <a href="https://commons.wikimedia.org/wiki/File:Transports_icon.png" title="Trasporti">
+   <a href="https://upload.wikimedia.org/wikipedia/commons/5/5e/Museum_of_Transport_in_Manchester.jpg" title="Trasporti">
       
 <img class="imgLeft"
-    src="https://commons.wikimedia.org/wiki/File:Transports_icon.png"  alt="Trasporti">
+    src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Museum_of_Transport_in_Manchester.jpg"  alt="Trasporti">
    
    </a>
  
@@ -56,7 +56,7 @@
    <a href="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link" title="Numeri">
       
 <img class="imgLeft"
-    src="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link"  alt="Numeri" height="200" width="300">
+    src="https://www.publicdomainpictures.net/pictures/40000/velka/numbers-colorful-clip-art.jpg#.XDSECmGMgDs.link"  alt="Numeri" height="200" width="200">
    
    </a>
  
@@ -68,7 +68,7 @@
 <div style="clear.both;"> </div>
 
 <p>
-<a style="float:right:" href="dialognumbers.html" class="btn2">Go to Extra on Numbers</a>
+<a style="float:right:" href="dialognumbers.html" class="btn2"> Go to Extra on Numbers </a>
 </p>
 <div style="clear.both;"> </div>
 
