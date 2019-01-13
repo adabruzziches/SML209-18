@@ -92,7 +92,7 @@ siam pronti alla morte l'Italia chiamo'!" <br>
 perche non siam popolo, perche siam divisi.
 Raccolgaci un'unica bandiera, una speme:
 di fonderci insieme gi l'ora suono. <br>
-Uniti per Dio, chi vincer ci puo?<br>
+Uniti per Dio, chi vincer ci puo?" <br>
 
 </p>
 
@@ -104,7 +104,6 @@ Uniti per Dio, chi vincer ci puo?<br>
 Bandiera Italiana. Digital image. Wikipedia. 28 September 2005, https://so.wikipedia.org/wiki/File:Flag_of_Italy.svg. <br>
 Cartina Italiana. Digital image. Diario di Scuola. http://leilaorlando.blogspot.com/2013/10/regioni-e-capoluoghi-ditalia.html. 
 </p>
-
 <h4>Audio attribution</h4>
 <p style="font-size:85%;"> 
 Inno di Mameli. MP3 source. Portale Storia.http://www.portalestoria.net/inni%20nazionali%20mp3.htm.
