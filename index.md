@@ -5,7 +5,7 @@
 
 <p lang="it"> <strong>Ciao!</strong> Questo sito vi dara' la possibilita' di approcciare la lingua italiana e di imparare il necessario per parlare in italiano quando visiterete il paese da turisti! Potrete esplorare la nostra cultura e scroprire fatti interessanti riguardanti il paese. </p> 
 
-<p lang="eng"> {<strong>Ciao!</strong> This website will give you the chance to approach the Italian language and to learn what is necessary to speak in Italian when visiting the country as tourists! You will have the opportunity to explore our culture and to discover some interesting facts about the country.} </p> 
+<p lang="eng"> {<strong>Hello!</strong> This website will give you the chance to approach the Italian language and to learn what is necessary to speak in Italian when visiting the country as tourists! You will have the opportunity to explore our culture and to discover some interesting facts about the country.} </p> 
 
 <hr>
 
